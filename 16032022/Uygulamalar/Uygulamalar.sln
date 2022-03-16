@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abonelik", "Abonelik\Abonel
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{07CC536C-8255-452C-9346-7CF9CBA81A20}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Otel", "Otel\Otel.csproj", "{D2E5F692-31A8-4C1A-8257-0560E09E1C2D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{07CC536C-8255-452C-9346-7CF9CBA81A20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07CC536C-8255-452C-9346-7CF9CBA81A20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07CC536C-8255-452C-9346-7CF9CBA81A20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2E5F692-31A8-4C1A-8257-0560E09E1C2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2E5F692-31A8-4C1A-8257-0560E09E1C2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2E5F692-31A8-4C1A-8257-0560E09E1C2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2E5F692-31A8-4C1A-8257-0560E09E1C2D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

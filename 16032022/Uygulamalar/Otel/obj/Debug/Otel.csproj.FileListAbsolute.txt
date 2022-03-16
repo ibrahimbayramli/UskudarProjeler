@@ -1,0 +1,7 @@
+C:\Users\STUDENT2\Desktop\UskudarProjeler\16032022\Uygulamalar\Otel\bin\Debug\Otel.exe.config
+C:\Users\STUDENT2\Desktop\UskudarProjeler\16032022\Uygulamalar\Otel\bin\Debug\Otel.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\16032022\Uygulamalar\Otel\bin\Debug\Otel.pdb
+C:\Users\STUDENT2\Desktop\UskudarProjeler\16032022\Uygulamalar\Otel\obj\Debug\Otel.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\16032022\Uygulamalar\Otel\obj\Debug\Otel.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\16032022\Uygulamalar\Otel\obj\Debug\Otel.pdb
+C:\Users\STUDENT2\Desktop\UskudarProjeler\16032022\Uygulamalar\Otel\obj\Debug\Otel.csproj.AssemblyReference.cache

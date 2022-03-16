@@ -64,30 +64,35 @@ namespace SwitchCase
 
                 case 2:
                     Console.WriteLine("Erkek giyim ürünlerini seçiniz.");
-                    Console.WriteLine("1-Spor giyim");
-                    Console.WriteLine("2-Dış Giyim");
-                    break;
+                    Console.WriteLine("q-Spor giyim");
+                    Console.WriteLine("b-Dış Giyim");
+                    char es = Convert.ToChar(Console.ReadLine());
+                    switch (es)
+                    {
+                        
+                    }
+            break;
                 case 3:
                     Console.WriteLine("Çocuk giyim ürünlerini seçiniz.");
 
-                    break;
-                default:
+            break;
+            default:
                     Console.WriteLine("Böyle bir seçim yok");
-                    Console.WriteLine("İşleme devam etmek istermisinzi? <E/H>");
-                    islem = Convert.ToChar(Console.ReadLine());
-                    if (islem == 'e' || islem == 'E')
-                    {
-                        goto yeniIslem;
-                    }
-                    else
-                    {
-                        Console.WriteLine("Yine bekleriz...");
-                        Environment.Exit(0);
+            Console.WriteLine("İşleme devam etmek istermisinzi? <E/H>");
+            islem = Convert.ToChar(Console.ReadLine());
+            if (islem == 'e' || islem == 'E')
+            {
+                goto yeniIslem;
+            }
+            else
+            {
+                Console.WriteLine("Yine bekleriz...");
+                Environment.Exit(0);
 
-                        break;
-                    }
+                break;
+            }
 
-                    break;
+            break; }
 
                     Console.WriteLine("Alışverişe devam etmek istermisinzi? <E/H>");
                     islem = Convert.ToChar(Console.ReadLine());
@@ -101,7 +106,7 @@ namespace SwitchCase
                         Environment.Exit(0);
                     }
                     Console.ReadLine();
-            }
+           
         }
     }
 }
