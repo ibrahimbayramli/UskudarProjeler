@@ -1,0 +1,7 @@
+C:\Users\STUDENT2\Desktop\Projeler\15032022\IlkUygulama\KarsilastirmaOperatorleri\bin\Debug\KarsilastirmaOperatorleri.exe.config
+C:\Users\STUDENT2\Desktop\Projeler\15032022\IlkUygulama\KarsilastirmaOperatorleri\bin\Debug\KarsilastirmaOperatorleri.exe
+C:\Users\STUDENT2\Desktop\Projeler\15032022\IlkUygulama\KarsilastirmaOperatorleri\bin\Debug\KarsilastirmaOperatorleri.pdb
+C:\Users\STUDENT2\Desktop\Projeler\15032022\IlkUygulama\KarsilastirmaOperatorleri\obj\Debug\KarsilastirmaOperatorleri.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\Projeler\15032022\IlkUygulama\KarsilastirmaOperatorleri\obj\Debug\KarsilastirmaOperatorleri.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\Projeler\15032022\IlkUygulama\KarsilastirmaOperatorleri\obj\Debug\KarsilastirmaOperatorleri.exe
+C:\Users\STUDENT2\Desktop\Projeler\15032022\IlkUygulama\KarsilastirmaOperatorleri\obj\Debug\KarsilastirmaOperatorleri.pdb

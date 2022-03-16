@@ -1,0 +1,6 @@
+C:\Users\STUDENT2\Desktop\Projeler\15032022\IlkUygulama\uc\bin\Debug\uc.exe.config
+C:\Users\STUDENT2\Desktop\Projeler\15032022\IlkUygulama\uc\bin\Debug\uc.exe
+C:\Users\STUDENT2\Desktop\Projeler\15032022\IlkUygulama\uc\bin\Debug\uc.pdb
+C:\Users\STUDENT2\Desktop\Projeler\15032022\IlkUygulama\uc\obj\Debug\uc.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\Projeler\15032022\IlkUygulama\uc\obj\Debug\uc.exe
+C:\Users\STUDENT2\Desktop\Projeler\15032022\IlkUygulama\uc\obj\Debug\uc.pdb

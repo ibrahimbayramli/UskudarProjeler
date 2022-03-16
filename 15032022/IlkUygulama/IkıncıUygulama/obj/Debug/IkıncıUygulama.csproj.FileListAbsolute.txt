@@ -1,0 +1,6 @@
+C:\Users\STUDENT2\Desktop\Projeler\15032022\IlkUygulama\IkıncıUygulama\bin\Debug\IkıncıUygulama.exe.config
+C:\Users\STUDENT2\Desktop\Projeler\15032022\IlkUygulama\IkıncıUygulama\bin\Debug\IkıncıUygulama.exe
+C:\Users\STUDENT2\Desktop\Projeler\15032022\IlkUygulama\IkıncıUygulama\bin\Debug\IkıncıUygulama.pdb
+C:\Users\STUDENT2\Desktop\Projeler\15032022\IlkUygulama\IkıncıUygulama\obj\Debug\IkıncıUygulama.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\Projeler\15032022\IlkUygulama\IkıncıUygulama\obj\Debug\IkıncıUygulama.exe
+C:\Users\STUDENT2\Desktop\Projeler\15032022\IlkUygulama\IkıncıUygulama\obj\Debug\IkıncıUygulama.pdb

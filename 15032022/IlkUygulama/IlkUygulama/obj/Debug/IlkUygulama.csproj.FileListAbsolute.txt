@@ -1,0 +1,7 @@
+C:\Users\STUDENT2\Desktop\Projeler\15032022\IlkUygulama\IlkUygulama\bin\Debug\IlkUygulama.exe.config
+C:\Users\STUDENT2\Desktop\Projeler\15032022\IlkUygulama\IlkUygulama\bin\Debug\IlkUygulama.exe
+C:\Users\STUDENT2\Desktop\Projeler\15032022\IlkUygulama\IlkUygulama\bin\Debug\IlkUygulama.pdb
+C:\Users\STUDENT2\Desktop\Projeler\15032022\IlkUygulama\IlkUygulama\obj\Debug\IlkUygulama.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\Projeler\15032022\IlkUygulama\IlkUygulama\obj\Debug\IlkUygulama.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\Projeler\15032022\IlkUygulama\IlkUygulama\obj\Debug\IlkUygulama.exe
+C:\Users\STUDENT2\Desktop\Projeler\15032022\IlkUygulama\IlkUygulama\obj\Debug\IlkUygulama.pdb

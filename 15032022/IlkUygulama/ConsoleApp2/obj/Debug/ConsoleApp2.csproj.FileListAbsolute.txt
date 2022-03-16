@@ -1,0 +1,6 @@
+C:\Users\STUDENT2\Desktop\Projeler\15032022\IlkUygulama\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\STUDENT2\Desktop\Projeler\15032022\IlkUygulama\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\STUDENT2\Desktop\Projeler\15032022\IlkUygulama\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\STUDENT2\Desktop\Projeler\15032022\IlkUygulama\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\Projeler\15032022\IlkUygulama\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\STUDENT2\Desktop\Projeler\15032022\IlkUygulama\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
