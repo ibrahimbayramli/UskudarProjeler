@@ -1,0 +1,7 @@
+C:\Users\STUDENT2\Desktop\UskudarProjeler\16032022\Uygulamalar\SwitchCase\obj\Debug\SwitchCase.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\16032022\Uygulamalar\SwitchCase\obj\Debug\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\16032022\Uygulamalar\SwitchCase\bin\Debug\SwitchCase.exe.config
+C:\Users\STUDENT2\Desktop\UskudarProjeler\16032022\Uygulamalar\SwitchCase\bin\Debug\SwitchCase.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\16032022\Uygulamalar\SwitchCase\bin\Debug\SwitchCase.pdb
+C:\Users\STUDENT2\Desktop\UskudarProjeler\16032022\Uygulamalar\SwitchCase\obj\Debug\SwitchCase.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\16032022\Uygulamalar\SwitchCase\obj\Debug\SwitchCase.pdb

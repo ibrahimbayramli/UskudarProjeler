@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uygulamalar", "Uygulamalar\Uygulamalar.csproj", "{B39B407B-77DC-49EB-97AE-981C7B6A20C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abonelik", "Abonelik\Abonelik.csproj", "{E1713346-A62E-4269-B159-9103B05D04DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{07CC536C-8255-452C-9346-7CF9CBA81A20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B39B407B-77DC-49EB-97AE-981C7B6A20C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B39B407B-77DC-49EB-97AE-981C7B6A20C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B39B407B-77DC-49EB-97AE-981C7B6A20C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B39B407B-77DC-49EB-97AE-981C7B6A20C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1713346-A62E-4269-B159-9103B05D04DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1713346-A62E-4269-B159-9103B05D04DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1713346-A62E-4269-B159-9103B05D04DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1713346-A62E-4269-B159-9103B05D04DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07CC536C-8255-452C-9346-7CF9CBA81A20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07CC536C-8255-452C-9346-7CF9CBA81A20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07CC536C-8255-452C-9346-7CF9CBA81A20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07CC536C-8255-452C-9346-7CF9CBA81A20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7C85264-C92E-4770-8748-761E04BCED48}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\STUDENT2\Desktop\UskudarProjeler\16032022\Uygulamalar\Abonelik\bin\Debug\Abonelik.exe.config
+C:\Users\STUDENT2\Desktop\UskudarProjeler\16032022\Uygulamalar\Abonelik\bin\Debug\Abonelik.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\16032022\Uygulamalar\Abonelik\bin\Debug\Abonelik.pdb
+C:\Users\STUDENT2\Desktop\UskudarProjeler\16032022\Uygulamalar\Abonelik\obj\Debug\Abonelik.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\16032022\Uygulamalar\Abonelik\obj\Debug\Abonelik.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\16032022\Uygulamalar\Abonelik\obj\Debug\Abonelik.pdb
