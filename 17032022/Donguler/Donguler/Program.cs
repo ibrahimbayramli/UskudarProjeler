@@ -10,6 +10,17 @@ namespace Donguler
     {
         static void Main(string[] args)
         {
+
+            Console.Write("Faktöriyelini almak istediğiniz sayıyı giriniz: ");
+            int faktoriyel = Convert.ToInt32(Console.ReadLine());
+            int result = 1;
+            for(int i = 1; i <= faktoriyel; i++)
+            {
+                result = result * i;
+
+            }
+            Console.WriteLine($"Faktoriyel değeri: {result}");
+            Console.ReadKey();
         }
     }
 }

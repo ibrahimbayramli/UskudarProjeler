@@ -1,0 +1,7 @@
+C:\Users\STUDENT2\Desktop\UskudarProjeler\17032022\Donguler\Donguler\bin\Debug\Donguler.exe.config
+C:\Users\STUDENT2\Desktop\UskudarProjeler\17032022\Donguler\Donguler\bin\Debug\Donguler.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\17032022\Donguler\Donguler\bin\Debug\Donguler.pdb
+C:\Users\STUDENT2\Desktop\UskudarProjeler\17032022\Donguler\Donguler\obj\Debug\Donguler.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\17032022\Donguler\Donguler\obj\Debug\Donguler.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\17032022\Donguler\Donguler\obj\Debug\Donguler.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\17032022\Donguler\Donguler\obj\Debug\Donguler.pdb
