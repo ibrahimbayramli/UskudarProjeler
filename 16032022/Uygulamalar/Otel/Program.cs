@@ -19,7 +19,8 @@ namespace Otel
             int kisi = Convert.ToInt32(Console.ReadLine());
             Console.Write("Kalacak gün sayısını giriniz: ");
             int gun = Convert.ToInt32(Console.ReadLine());
-            float fiyat;
+            float fiyat=0;
+            bool taksitliMi=false;
             int secim;
             switch (oda)
             {
@@ -108,9 +109,10 @@ namespace Otel
                     Console.WriteLine("2- Öğlen yemeği");
                     Console.WriteLine("3- Akşam yemeği");
                     secim = Convert.ToInt32(Console.ReadLine());
+                    bool ekle = false;
+
                     
                     
-                    bool ekle = Convert.ToBoolean(Console.ReadLine());
                     if (opsiyon.Contains(secim))
                     {
                         Console.WriteLine("Bu opsiyonu zaten eklediniz.");
@@ -119,16 +121,60 @@ namespace Otel
                     {
                         opsiyon.Add(secim);
                     }
-                    Console.WriteLine("Opsiyon Eklemek istermisiniz? <true/false>");
+                    if (opsiyon.Count != 3)
+                    {
+                        Console.WriteLine("Opsiyon eklemek istermisiniz? <true/false>");
+                        ekle = Convert.ToBoolean(Console.ReadLine());
+                    }
+                    
                     if (ekle)
                     {
-                        goto git;
+                       goto git;
                     }
                     if(opsiyon.Contains(1)&& opsiyon.Contains(2))
                     {
+                        fiyat = kisi * gun;
+                        fiyat += 1000;
+                        Console.WriteLine($"Ödenecek tutar: {fiyat}");
 
+                    }else if (opsiyon.Contains(1) && opsiyon.Contains(2) && opsiyon.Contains(3))
+                    {
+                        fiyat = kisi * gun;
+                        fiyat += 1500;
+                        Console.WriteLine($"Ödenecek tutar: {fiyat}");
+                    }
+                    if(opsiyon.Contains(1) && opsiyon.Contains(2) && opsiyon.Contains(3))
+                    {
+                        Console.WriteLine("Taksit ister misiniz? <true/false>");
+                        taksitliMi = Convert.ToBoolean(Console.ReadLine());
+                        
+                    }
+                    if (taksitliMi)
+                    {
+                        Console.WriteLine("Taksit sayısını seçiniz.");
+                        Console.WriteLine("1- 6 taksit.");
+                        Console.WriteLine("2- 8 taksit.");
+                        Console.WriteLine("3- 12 taksit.");
+                        char taksit = Convert.ToChar(Console.ReadLine());
+                        if (taksit == '1')
+                        {
+                            Console.WriteLine($"Toplam fiyat: {fiyat}");
+                            Console.WriteLine($"Taksit tutarı: {fiyat/6}");
+
+                        }else if(taksit == '2')
+                        {
+                            Console.WriteLine($"Toplam fiyat: {fiyat}");
+                            Console.WriteLine($"Taksit tutarı: {fiyat / 8}");
+                        }else if (taksit == '3')
+                        {
+                            fiyat = (float)(fiyat * 1.02);
+                            Console.WriteLine($"Toplam fiyat: {fiyat}");
+                            Console.WriteLine($"Taksit tutarı: {fiyat / 12}");
+
+                        }
                     }
 
+                    
 
                     break;
                 default:

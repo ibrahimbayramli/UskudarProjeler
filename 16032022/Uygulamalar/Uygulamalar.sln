@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCase", "SwitchCase\Sw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Otel", "Otel\Otel.csproj", "{D2E5F692-31A8-4C1A-8257-0560E09E1C2D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{D782BBFA-26F5-4AB4-BE17-04BF16061154}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maas", "Maas\Maas.csproj", "{59DEB1C8-0745-427D-940E-48F8AE40D434}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{D2E5F692-31A8-4C1A-8257-0560E09E1C2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2E5F692-31A8-4C1A-8257-0560E09E1C2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2E5F692-31A8-4C1A-8257-0560E09E1C2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D782BBFA-26F5-4AB4-BE17-04BF16061154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D782BBFA-26F5-4AB4-BE17-04BF16061154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D782BBFA-26F5-4AB4-BE17-04BF16061154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D782BBFA-26F5-4AB4-BE17-04BF16061154}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59DEB1C8-0745-427D-940E-48F8AE40D434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59DEB1C8-0745-427D-940E-48F8AE40D434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59DEB1C8-0745-427D-940E-48F8AE40D434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59DEB1C8-0745-427D-940E-48F8AE40D434}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
