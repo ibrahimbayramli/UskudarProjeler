@@ -1,0 +1,7 @@
+C:\Users\STUDENT2\Desktop\UskudarProjeler\18032022\Uygulamalar\ToplamaIslemi\bin\Debug\ToplamaIslemi.exe.config
+C:\Users\STUDENT2\Desktop\UskudarProjeler\18032022\Uygulamalar\ToplamaIslemi\bin\Debug\ToplamaIslemi.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\18032022\Uygulamalar\ToplamaIslemi\bin\Debug\ToplamaIslemi.pdb
+C:\Users\STUDENT2\Desktop\UskudarProjeler\18032022\Uygulamalar\ToplamaIslemi\obj\Debug\ToplamaIslemi.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\18032022\Uygulamalar\ToplamaIslemi\obj\Debug\ToplamaIslemi.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\18032022\Uygulamalar\ToplamaIslemi\obj\Debug\ToplamaIslemi.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\18032022\Uygulamalar\ToplamaIslemi\obj\Debug\ToplamaIslemi.pdb

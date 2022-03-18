@@ -1,0 +1,6 @@
+C:\Users\STUDENT2\Desktop\UskudarProjeler\18032022\Uygulamalar\EnBuyukSayi\bin\Debug\EnBuyukSayi.exe.config
+C:\Users\STUDENT2\Desktop\UskudarProjeler\18032022\Uygulamalar\EnBuyukSayi\bin\Debug\EnBuyukSayi.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\18032022\Uygulamalar\EnBuyukSayi\bin\Debug\EnBuyukSayi.pdb
+C:\Users\STUDENT2\Desktop\UskudarProjeler\18032022\Uygulamalar\EnBuyukSayi\obj\Debug\EnBuyukSayi.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\18032022\Uygulamalar\EnBuyukSayi\obj\Debug\EnBuyukSayi.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\18032022\Uygulamalar\EnBuyukSayi\obj\Debug\EnBuyukSayi.pdb

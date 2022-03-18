@@ -1,0 +1,7 @@
+C:\Users\STUDENT2\Desktop\UskudarProjeler\18032022\Uygulamalar\Uygulamalar\obj\Debug\Uygulamalar.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\18032022\Uygulamalar\Uygulamalar\obj\Debug\Uygulamalar.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\18032022\Uygulamalar\Uygulamalar\bin\Debug\Uygulamalar.exe.config
+C:\Users\STUDENT2\Desktop\UskudarProjeler\18032022\Uygulamalar\Uygulamalar\bin\Debug\Uygulamalar.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\18032022\Uygulamalar\Uygulamalar\bin\Debug\Uygulamalar.pdb
+C:\Users\STUDENT2\Desktop\UskudarProjeler\18032022\Uygulamalar\Uygulamalar\obj\Debug\Uygulamalar.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\18032022\Uygulamalar\Uygulamalar\obj\Debug\Uygulamalar.pdb

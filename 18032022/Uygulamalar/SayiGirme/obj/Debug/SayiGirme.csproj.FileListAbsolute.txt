@@ -1,0 +1,7 @@
+C:\Users\STUDENT2\Desktop\UskudarProjeler\18032022\Uygulamalar\SayiGirme\bin\Debug\SayiGirme.exe.config
+C:\Users\STUDENT2\Desktop\UskudarProjeler\18032022\Uygulamalar\SayiGirme\bin\Debug\SayiGirme.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\18032022\Uygulamalar\SayiGirme\bin\Debug\SayiGirme.pdb
+C:\Users\STUDENT2\Desktop\UskudarProjeler\18032022\Uygulamalar\SayiGirme\obj\Debug\SayiGirme.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\18032022\Uygulamalar\SayiGirme\obj\Debug\SayiGirme.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\18032022\Uygulamalar\SayiGirme\obj\Debug\SayiGirme.pdb
+C:\Users\STUDENT2\Desktop\UskudarProjeler\18032022\Uygulamalar\SayiGirme\obj\Debug\SayiGirme.csproj.AssemblyReference.cache
