@@ -1,0 +1,7 @@
+C:\Users\STUDENT2\Desktop\UskudarProjeler\21032022\Uygulama1\Uygulama12\bin\Debug\Uygulama12.exe.config
+C:\Users\STUDENT2\Desktop\UskudarProjeler\21032022\Uygulama1\Uygulama12\bin\Debug\Uygulama12.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\21032022\Uygulama1\Uygulama12\bin\Debug\Uygulama12.pdb
+C:\Users\STUDENT2\Desktop\UskudarProjeler\21032022\Uygulama1\Uygulama12\obj\Debug\Uygulama12.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\21032022\Uygulama1\Uygulama12\obj\Debug\Uygulama12.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\21032022\Uygulama1\Uygulama12\obj\Debug\Uygulama12.pdb
+C:\Users\STUDENT2\Desktop\UskudarProjeler\21032022\Uygulama1\Uygulama12\obj\Debug\Uygulama12.csproj.AssemblyReference.cache

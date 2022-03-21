@@ -1,0 +1,6 @@
+C:\Users\STUDENT2\Desktop\UskudarProjeler\21032022\Uygulama1\Uygulama14\bin\Debug\Uygulama14.exe.config
+C:\Users\STUDENT2\Desktop\UskudarProjeler\21032022\Uygulama1\Uygulama14\bin\Debug\Uygulama14.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\21032022\Uygulama1\Uygulama14\bin\Debug\Uygulama14.pdb
+C:\Users\STUDENT2\Desktop\UskudarProjeler\21032022\Uygulama1\Uygulama14\obj\Debug\Uygulama14.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\21032022\Uygulama1\Uygulama14\obj\Debug\Uygulama14.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\21032022\Uygulama1\Uygulama14\obj\Debug\Uygulama14.pdb
