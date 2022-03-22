@@ -1,0 +1,7 @@
+C:\Users\STUDENT2\Desktop\UskudarProjeler\22032022\ForEach\Diziler\bin\Debug\Diziler.exe.config
+C:\Users\STUDENT2\Desktop\UskudarProjeler\22032022\ForEach\Diziler\bin\Debug\Diziler.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\22032022\ForEach\Diziler\bin\Debug\Diziler.pdb
+C:\Users\STUDENT2\Desktop\UskudarProjeler\22032022\ForEach\Diziler\obj\Debug\Diziler.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\22032022\ForEach\Diziler\obj\Debug\Diziler.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\22032022\ForEach\Diziler\obj\Debug\Diziler.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\22032022\ForEach\Diziler\obj\Debug\Diziler.pdb

@@ -1,0 +1,7 @@
+C:\Users\STUDENT2\Desktop\UskudarProjeler\22032022\ForEach\Uygulama9\bin\Debug\Uygulama9.exe.config
+C:\Users\STUDENT2\Desktop\UskudarProjeler\22032022\ForEach\Uygulama9\bin\Debug\Uygulama9.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\22032022\ForEach\Uygulama9\bin\Debug\Uygulama9.pdb
+C:\Users\STUDENT2\Desktop\UskudarProjeler\22032022\ForEach\Uygulama9\obj\Debug\Uygulama9.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\22032022\ForEach\Uygulama9\obj\Debug\Uygulama9.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\22032022\ForEach\Uygulama9\obj\Debug\Uygulama9.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\22032022\ForEach\Uygulama9\obj\Debug\Uygulama9.pdb

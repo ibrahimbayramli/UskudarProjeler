@@ -1,0 +1,7 @@
+C:\Users\STUDENT2\Desktop\UskudarProjeler\22032022\ForEach\ForEach\bin\Debug\ForEach.exe.config
+C:\Users\STUDENT2\Desktop\UskudarProjeler\22032022\ForEach\ForEach\bin\Debug\ForEach.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\22032022\ForEach\ForEach\bin\Debug\ForEach.pdb
+C:\Users\STUDENT2\Desktop\UskudarProjeler\22032022\ForEach\ForEach\obj\Debug\ForEach.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\22032022\ForEach\ForEach\obj\Debug\ForEach.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\22032022\ForEach\ForEach\obj\Debug\ForEach.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\22032022\ForEach\ForEach\obj\Debug\ForEach.pdb
