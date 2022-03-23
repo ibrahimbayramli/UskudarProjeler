@@ -13,17 +13,19 @@ namespace Uygulama15
            
             Random rnd = new Random();
             int[] sayilar = new int[10];
-            int sayi ;
+            int sayi=0 ;
             
             for (int i = 0; i < 10; i++)
             {
-                git:
-                sayi = rnd.Next(0, 250);
-                for (int j=0;j<10;j++)
+                
+                sayi = rnd.Next(0, 15);
+                //Console.WriteLine(sayi);
+                for (int j=0;j<i;j++)
                 {
-                    if (sayilar[j] == sayi)
+                    if (sayilar[j] == sayilar[i])
                     {
-                        goto git;
+                        i--;
+                        break;
                     }
                     else
                     {
@@ -31,9 +33,9 @@ namespace Uygulama15
                     }
                 }
             }
-            foreach (int item in sayilar)
+            for (int i = 0; i < 10; i++)
             {
-                Console.WriteLine(item);
+                Console.WriteLine(sayilar[i]);
             }
             Console.ReadKey();
         }

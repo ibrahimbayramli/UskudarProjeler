@@ -1,0 +1,7 @@
+C:\Users\STUDENT2\Desktop\UskudarProjeler\23032022\Uygulama1\Metotlar\bin\Debug\Metotlar.exe.config
+C:\Users\STUDENT2\Desktop\UskudarProjeler\23032022\Uygulama1\Metotlar\bin\Debug\Metotlar.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\23032022\Uygulama1\Metotlar\bin\Debug\Metotlar.pdb
+C:\Users\STUDENT2\Desktop\UskudarProjeler\23032022\Uygulama1\Metotlar\obj\Debug\Metotlar.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\23032022\Uygulama1\Metotlar\obj\Debug\Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\23032022\Uygulama1\Metotlar\obj\Debug\Metotlar.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\23032022\Uygulama1\Metotlar\obj\Debug\Metotlar.pdb
