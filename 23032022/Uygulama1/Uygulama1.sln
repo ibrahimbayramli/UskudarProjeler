@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uygulama7", "Uygulama7\Uygu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uygulama8", "Uygulama8\Uygulama8.csproj", "{CD99E286-AC53-467D-9098-62D9BEBEA32C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uygulama9", "Uygulama9\Uygulama9.csproj", "{C303AD0B-D904-4C14-9533-C101C10313A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{CD99E286-AC53-467D-9098-62D9BEBEA32C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD99E286-AC53-467D-9098-62D9BEBEA32C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD99E286-AC53-467D-9098-62D9BEBEA32C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C303AD0B-D904-4C14-9533-C101C10313A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C303AD0B-D904-4C14-9533-C101C10313A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C303AD0B-D904-4C14-9533-C101C10313A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C303AD0B-D904-4C14-9533-C101C10313A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
