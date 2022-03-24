@@ -8,6 +8,91 @@ namespace KrediHesaplayici
 {
     class Program
     {
+        public static void IhtiyacKredisi(float anapara,float vade)
+        {
+            
+            float tutar = 0;
+            for(int i = 1; i <= vade; i++)
+            {
+                tutar = anapara;
+                tutar += anapara * 0.02f;
+            }
+            Console.WriteLine($"Kredilerinizin toplamı {tutar}TL. Taksit tutarınız {tutar / vade}TL");
+        }
+        public static string ZiraatBankasi()
+        {
+            Console.WriteLine("1) İhtiyaç kredisi");
+            Console.WriteLine("2) Konut kredisi");
+            Console.Write("Bir seçim yapın: ");
+            int zsecim = Convert.ToInt32(Console.ReadLine());
+            float tutar = 0;
+            if (zsecim == 1)
+            {
+                Console.Write("Anaparanızı giriniz: ");
+                float anapara = Convert.ToSingle(Console.ReadLine());
+                Console.Write("Ödeme vadesini giriniz: ");
+                float vade = Convert.ToSingle(Console.ReadLine());
+                IhtiyacKredisi(anapara,vade);
+                return "";
+            }
+            else
+            {
+                Console.WriteLine("1) 0 daire");
+                Console.WriteLine("2) 2. el daire");
+                Console.Write("Bir seçim yapınız: ");
+                int secim = Convert.ToInt32(Console.ReadLine());
+                if (secim == 1)
+                {
+                    Console.WriteLine("Lokasyon seçiniz: ");
+                    Console.WriteLine(" 1) Kadıköy");
+                    Console.WriteLine(" 2) Üsküdar");
+                    Console.WriteLine(" 3) Şişli");
+                    Console.WriteLine(" 4) Etiler");
+                    Console.WriteLine(" 5) Diğer");
+                    Console.Write("Bir seçim yapınız: ");
+                    int secim2 = Convert.ToInt32(Console.ReadLine());
+                    if(secim2==1 || secim2 == 4)
+                    {
+                        Console.Write("Konutun tutarını giriniz: ");
+                        tutar = Convert.ToSingle(Console.ReadLine());
+                        tutar *= 1.18f;
+                        tutar *= 1.045f;
+
+                        return $"Kredilerinizin toplamı {tutar}TL. Taksit tutarınız {tutar / 120}TL";
+
+
+                    }else if(secim2 == 2 || secim2 == 3)
+                    {
+                        Console.Write("Konutun tutarını giriniz: ");
+                        tutar = Convert.ToSingle(Console.ReadLine());
+                        tutar *= 1.2f;
+                        tutar *= 1.035f;
+
+                        return $"Kredilerinizin toplamı {tutar}TL. Taksit tutarınız {tutar / 120}TL";
+                    }
+                    else
+                    {
+                        Console.Write("Konutun tutarını giriniz: ");
+                        tutar = Convert.ToSingle(Console.ReadLine());
+                        tutar *= 1.2f;
+                        
+
+                        return $"Kredilerinizin toplamı {tutar}TL. Taksit tutarınız {tutar / 120}TL";
+                    }
+
+                }
+                else
+                {
+                    Console.Write("Konutun tutarını giriniz: ");
+                    tutar = Convert.ToSingle(Console.ReadLine());
+                    tutar *= 1.0125f;
+
+
+                    return $"Kredilerinizin toplamı {tutar}TL. Taksit tutarınız {tutar / 120}TL";
+                }
+                
+            }
+        }
         public static string GarantiBankasi()
         {
             Console.WriteLine("1) Bireysel müşteriler");
@@ -110,9 +195,11 @@ namespace KrediHesaplayici
             switch (secim)
             {
                 case 1:
-                    Console.WriteLine(GarantiBankasi());
+                    string donus = GarantiBankasi();
+                    Console.WriteLine(donus);
                     break;
                 case 2:
+                    Console.WriteLine(ZiraatBankasi());                    
                     break;
                 case 3:
                     break;
