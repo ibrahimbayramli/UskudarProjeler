@@ -1,0 +1,6 @@
+C:\Users\STUDENT2\Desktop\UskudarProjeler\24032022\Uygulama1\Uygulama1\bin\Debug\Uygulama1.exe.config
+C:\Users\STUDENT2\Desktop\UskudarProjeler\24032022\Uygulama1\Uygulama1\bin\Debug\Uygulama1.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\24032022\Uygulama1\Uygulama1\bin\Debug\Uygulama1.pdb
+C:\Users\STUDENT2\Desktop\UskudarProjeler\24032022\Uygulama1\Uygulama1\obj\Debug\KrediHesaplayici.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\24032022\Uygulama1\Uygulama1\obj\Debug\Uygulama1.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\24032022\Uygulama1\Uygulama1\obj\Debug\Uygulama1.pdb
