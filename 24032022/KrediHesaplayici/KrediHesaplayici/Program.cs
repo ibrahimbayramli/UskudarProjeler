@@ -15,7 +15,7 @@ namespace KrediHesaplayici
             Console.Write("Bir seçim yapınız: ");
             int gsecim = Convert.ToInt32(Console.ReadLine());
             float toplam = 0;
-            float taksit = 0;
+
 
             if (gsecim == 1)
             {
@@ -46,11 +46,59 @@ namespace KrediHesaplayici
                         toplam += tutar;
 
                     }
-                    return $"Kredilerinizin toplamı {toplam}TL. Taksit tutarınız {toplam /20}TL";
+                    return $"Kredilerinizin toplamı {toplam}TL. Taksit tutarınız {toplam / 20}TL";
                 }
 
             }
-            else return "Henüz yapım aşamasında.";
+            else
+            {
+                do
+                {
+                    Console.Write("Kullanıcı adınızı giriniz: ");
+                    string kullanici = Console.ReadLine();
+                    Console.Write("Parolanızı adınızı giriniz: ");
+                    string parola = Console.ReadLine();
+                    if (kullanici == "admin" && parola == "admin")
+                    {
+                        Console.WriteLine("Giriş başarılı.");
+                        break;
+                    }
+                    else
+                    {
+                        Console.WriteLine("Hatalı giriş yaptınız.");
+                    }
+                } while (true);
+                Console.WriteLine("1) Limitet şirket");
+                Console.WriteLine("2) Anonim şirket");
+                int gsecim2 = Convert.ToInt32(Console.ReadLine());
+                if (gsecim2 == 1)
+                {
+                    Console.Write("Kredi tutarını giriniz: ");
+                    float tutar = Convert.ToSingle(Console.ReadLine());
+                    if (tutar < 50000)
+                    {
+                        toplam = tutar * 1.1f;
+                        toplam *= 1.03f;
+                        return $"Kredilerinizin toplamı {toplam}TL. Taksit tutarınız {toplam / 68}TL";
+                    }
+                    else if (tutar >= 50000 && tutar < 100000)
+                    {
+                        toplam = tutar * 1.15f;
+                        toplam *= 1.075f;
+                        return $"Kredilerinizin toplamı {toplam}TL. Taksit tutarınız {toplam / 72}TL";
+                    }
+                    else
+                    {
+                        toplam = tutar * 1.2f;
+                        toplam *= 1.15f;
+                        return $"Kredilerinizin toplamı {toplam}TL. Taksit tutarınız {toplam / 108}TL";
+                    }
+                }
+                else
+                {
+                    return "Henüz tamamlanmadı devam ediyor.";
+                }
+            }
         }
         public static void Anasayfa()
         {
@@ -62,7 +110,7 @@ namespace KrediHesaplayici
             switch (secim)
             {
                 case 1:
-                    Console.WriteLine(GarantiBankasi()); 
+                    Console.WriteLine(GarantiBankasi());
                     break;
                 case 2:
                     break;
@@ -77,6 +125,5 @@ namespace KrediHesaplayici
             Anasayfa();
             Console.ReadKey();
         }
-    }
     }
 }

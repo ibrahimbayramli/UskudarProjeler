@@ -1,0 +1,7 @@
+C:\Users\STUDENT2\Desktop\UskudarProjeler\24032022\KrediHesaplayici\KrediHesaplayici\bin\Debug\KrediHesaplayici.exe.config
+C:\Users\STUDENT2\Desktop\UskudarProjeler\24032022\KrediHesaplayici\KrediHesaplayici\bin\Debug\KrediHesaplayici.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\24032022\KrediHesaplayici\KrediHesaplayici\bin\Debug\KrediHesaplayici.pdb
+C:\Users\STUDENT2\Desktop\UskudarProjeler\24032022\KrediHesaplayici\KrediHesaplayici\obj\Debug\KrediHesaplayici.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\24032022\KrediHesaplayici\KrediHesaplayici\obj\Debug\KrediHesaplayici.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\24032022\KrediHesaplayici\KrediHesaplayici\obj\Debug\KrediHesaplayici.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\24032022\KrediHesaplayici\KrediHesaplayici\obj\Debug\KrediHesaplayici.pdb
