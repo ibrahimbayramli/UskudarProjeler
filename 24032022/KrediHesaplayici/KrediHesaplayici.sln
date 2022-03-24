@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KrediHesaplayici", "KrediHe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uygulama1", "Uygulama1\Uygulama1.csproj", "{6385B22E-A220-4A6C-B49E-595BE54B5592}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uygulama2", "Uygulama2\Uygulama2.csproj", "{13FB53B4-86E5-4255-B96E-33DC685F61D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uygulama3", "Uygulama3\Uygulama3.csproj", "{93D0B04C-4101-4F8E-8205-56755A27F434}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{6385B22E-A220-4A6C-B49E-595BE54B5592}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6385B22E-A220-4A6C-B49E-595BE54B5592}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6385B22E-A220-4A6C-B49E-595BE54B5592}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13FB53B4-86E5-4255-B96E-33DC685F61D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13FB53B4-86E5-4255-B96E-33DC685F61D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13FB53B4-86E5-4255-B96E-33DC685F61D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13FB53B4-86E5-4255-B96E-33DC685F61D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93D0B04C-4101-4F8E-8205-56755A27F434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93D0B04C-4101-4F8E-8205-56755A27F434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93D0B04C-4101-4F8E-8205-56755A27F434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93D0B04C-4101-4F8E-8205-56755A27F434}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -4,3 +4,4 @@ C:\Users\STUDENT2\Desktop\UskudarProjeler\24032022\KrediHesaplayici\Uygulama1\bi
 C:\Users\STUDENT2\Desktop\UskudarProjeler\24032022\KrediHesaplayici\Uygulama1\obj\Debug\Uygulama1.csproj.CoreCompileInputs.cache
 C:\Users\STUDENT2\Desktop\UskudarProjeler\24032022\KrediHesaplayici\Uygulama1\obj\Debug\Uygulama1.exe
 C:\Users\STUDENT2\Desktop\UskudarProjeler\24032022\KrediHesaplayici\Uygulama1\obj\Debug\Uygulama1.pdb
+C:\Users\STUDENT2\Desktop\UskudarProjeler\24032022\KrediHesaplayici\Uygulama1\obj\Debug\Uygulama1.csproj.AssemblyReference.cache
