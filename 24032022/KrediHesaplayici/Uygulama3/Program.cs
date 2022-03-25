@@ -28,12 +28,13 @@ namespace Uygulama3
         static void Main(string[] args)
         { 
             int secim;
-            Console.WriteLine("1- Muhasebe");
-            Console.WriteLine("2- Teknik servis");
-            Console.WriteLine("3- İnsan kaynakları");
-            Console.WriteLine("4- Çıkış");
+            
             do
             {
+                Console.WriteLine("1- Muhasebe");
+                Console.WriteLine("2- Teknik servis");
+                Console.WriteLine("3- İnsan kaynakları");
+                Console.WriteLine("4- Çıkış");
                 secim = Convert.ToInt32(Console.ReadLine());
                 switch (secim)
                 {
