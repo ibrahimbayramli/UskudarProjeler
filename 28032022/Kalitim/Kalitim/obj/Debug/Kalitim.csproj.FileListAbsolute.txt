@@ -1,0 +1,7 @@
+C:\Users\STUDENT2\Desktop\UskudarProjeler\28032022\Kalitim\Kalitim\bin\Debug\Kalitim.exe.config
+C:\Users\STUDENT2\Desktop\UskudarProjeler\28032022\Kalitim\Kalitim\bin\Debug\Kalitim.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\28032022\Kalitim\Kalitim\bin\Debug\Kalitim.pdb
+C:\Users\STUDENT2\Desktop\UskudarProjeler\28032022\Kalitim\Kalitim\obj\Debug\Kalitim.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\28032022\Kalitim\Kalitim\obj\Debug\Kalitim.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\28032022\Kalitim\Kalitim\obj\Debug\Kalitim.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\28032022\Kalitim\Kalitim\obj\Debug\Kalitim.pdb
