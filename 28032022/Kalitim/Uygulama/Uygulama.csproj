@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{608FAD72-7E42-4F80-968E-F4AD1EA9C2BC}</ProjectGuid>
+    <ProjectGuid>{23E249B3-791A-460D-9EBF-5E1B667F7EA8}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Ulasim</RootNamespace>
-    <AssemblyName>Ulasim</AssemblyName>
+    <RootNamespace>Uygulama</RootNamespace>
+    <AssemblyName>Uygulama</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,11 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="HavaYolu.cs" />
-    <Compile Include="KaraYollari.cs" />
+    <Compile Include="EvSandalyeleri.cs" />
+    <Compile Include="OfisSandalyeleri.cs" />
+    <Compile Include="Sandalyeler.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Ulasim.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

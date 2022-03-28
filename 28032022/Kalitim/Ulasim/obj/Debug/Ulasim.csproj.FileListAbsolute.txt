@@ -1,0 +1,7 @@
+C:\Users\STUDENT2\Desktop\UskudarProjeler\28032022\Kalitim\Ulasim\bin\Debug\Ulasim.exe.config
+C:\Users\STUDENT2\Desktop\UskudarProjeler\28032022\Kalitim\Ulasim\bin\Debug\Ulasim.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\28032022\Kalitim\Ulasim\bin\Debug\Ulasim.pdb
+C:\Users\STUDENT2\Desktop\UskudarProjeler\28032022\Kalitim\Ulasim\obj\Debug\Ulasim.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\28032022\Kalitim\Ulasim\obj\Debug\Ulasim.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\28032022\Kalitim\Ulasim\obj\Debug\Ulasim.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\28032022\Kalitim\Ulasim\obj\Debug\Ulasim.pdb

@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Hayvan.cs" />
     <Compile Include="Kedigiller.cs" />
+    <Compile Include="KosanHayvanlar.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
