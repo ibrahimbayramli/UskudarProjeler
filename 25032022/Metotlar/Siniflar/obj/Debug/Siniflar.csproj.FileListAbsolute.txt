@@ -1,0 +1,7 @@
+C:\Users\STUDENT2\source\repos\Metotlar\Siniflar\bin\Debug\Siniflar.exe.config
+C:\Users\STUDENT2\source\repos\Metotlar\Siniflar\bin\Debug\Siniflar.exe
+C:\Users\STUDENT2\source\repos\Metotlar\Siniflar\bin\Debug\Siniflar.pdb
+C:\Users\STUDENT2\source\repos\Metotlar\Siniflar\obj\Debug\Siniflar.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\source\repos\Metotlar\Siniflar\obj\Debug\Siniflar.exe
+C:\Users\STUDENT2\source\repos\Metotlar\Siniflar\obj\Debug\Siniflar.pdb
+C:\Users\STUDENT2\source\repos\Metotlar\Siniflar\obj\Debug\Siniflar.csproj.AssemblyReference.cache

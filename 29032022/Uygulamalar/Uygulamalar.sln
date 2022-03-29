@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uygulama1", "Uygulama1\Uygulama1.csproj", "{7BF4D5F4-FC5B-4B9F-A9A3-458CE07F639C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uygulama2", "Uygulama2\Uygulama2.csproj", "{1EA40346-A32F-48F7-AB11-FAE250811AE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BF4D5F4-FC5B-4B9F-A9A3-458CE07F639C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BF4D5F4-FC5B-4B9F-A9A3-458CE07F639C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BF4D5F4-FC5B-4B9F-A9A3-458CE07F639C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BF4D5F4-FC5B-4B9F-A9A3-458CE07F639C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EA40346-A32F-48F7-AB11-FAE250811AE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EA40346-A32F-48F7-AB11-FAE250811AE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EA40346-A32F-48F7-AB11-FAE250811AE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EA40346-A32F-48F7-AB11-FAE250811AE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF98320E-2160-4709-930C-29A2F4EB339B}
+	EndGlobalSection
+EndGlobal

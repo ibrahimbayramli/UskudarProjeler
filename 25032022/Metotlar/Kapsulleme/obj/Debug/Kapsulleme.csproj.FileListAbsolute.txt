@@ -1,0 +1,7 @@
+C:\Users\STUDENT2\source\repos\Metotlar\Kapsulleme\obj\Debug\Kapsulleme.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\source\repos\Metotlar\Kapsulleme\obj\Debug\Kapsulleme.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\source\repos\Metotlar\Kapsulleme\bin\Debug\Kapsulleme.exe.config
+C:\Users\STUDENT2\source\repos\Metotlar\Kapsulleme\bin\Debug\Kapsulleme.exe
+C:\Users\STUDENT2\source\repos\Metotlar\Kapsulleme\bin\Debug\Kapsulleme.pdb
+C:\Users\STUDENT2\source\repos\Metotlar\Kapsulleme\obj\Debug\Kapsulleme.exe
+C:\Users\STUDENT2\source\repos\Metotlar\Kapsulleme\obj\Debug\Kapsulleme.pdb
