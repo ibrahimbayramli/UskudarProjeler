@@ -1,0 +1,7 @@
+C:\Users\STUDENT2\Desktop\UskudarProjeler\29032022\Uygulamalar\PoliFormizim\bin\Debug\PoliFormizim.exe.config
+C:\Users\STUDENT2\Desktop\UskudarProjeler\29032022\Uygulamalar\PoliFormizim\bin\Debug\PoliFormizim.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\29032022\Uygulamalar\PoliFormizim\bin\Debug\PoliFormizim.pdb
+C:\Users\STUDENT2\Desktop\UskudarProjeler\29032022\Uygulamalar\PoliFormizim\obj\Debug\PoliFormizim.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\29032022\Uygulamalar\PoliFormizim\obj\Debug\PoliFormizim.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\29032022\Uygulamalar\PoliFormizim\obj\Debug\PoliFormizim.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\29032022\Uygulamalar\PoliFormizim\obj\Debug\PoliFormizim.pdb

@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uygulama1", "Uygulama1\Uygu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uygulama2", "Uygulama2\Uygulama2.csproj", "{1EA40346-A32F-48F7-AB11-FAE250811AE1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoliFormizim", "PoliFormizim\PoliFormizim.csproj", "{38A44E5C-A79B-4589-BEC0-3149368D0A8D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1EA40346-A32F-48F7-AB11-FAE250811AE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EA40346-A32F-48F7-AB11-FAE250811AE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1EA40346-A32F-48F7-AB11-FAE250811AE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38A44E5C-A79B-4589-BEC0-3149368D0A8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38A44E5C-A79B-4589-BEC0-3149368D0A8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38A44E5C-A79B-4589-BEC0-3149368D0A8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38A44E5C-A79B-4589-BEC0-3149368D0A8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
