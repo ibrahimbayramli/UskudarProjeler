@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BAA98364-A6CF-4753-BCDE-515570D31C08}</ProjectGuid>
+    <ProjectGuid>{F4FA2006-E8DF-42DB-951A-9DC47FFFBEB1}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Uygulama3</RootNamespace>
-    <AssemblyName>Uygulama3</AssemblyName>
+    <RootNamespace>Uygulama4</RootNamespace>
+    <AssemblyName>Uygulama4</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,8 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Dahiliye.cs" />
-    <Compile Include="Hastahane.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
