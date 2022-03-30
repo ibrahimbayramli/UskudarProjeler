@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5EAE8E0B-CBB0-4433-BCCF-12F1D1156F0F}</ProjectGuid>
+    <ProjectGuid>{81144683-CC60-4592-991C-43AA015B8E7E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Uygulama2</RootNamespace>
-    <AssemblyName>Uygulama2</AssemblyName>
+    <RootNamespace>Elektronik</RootNamespace>
+    <AssemblyName>Elektronik</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,12 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Daire.cs" />
-    <Compile Include="Ev.cs" />
-    <Compile Include="Mustakil.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Villa.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

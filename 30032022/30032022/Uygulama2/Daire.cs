@@ -15,7 +15,7 @@ namespace Uygulama2
         
         public void EvVerileri()
         {
-            VeriCek();
+            
             Console.Write("Cephe bilgisi giriniz: ");
             cephe = Console.ReadLine();
             Console.Write("Daire durumu giriniz: ");
@@ -25,7 +25,7 @@ namespace Uygulama2
             Console.Write("Balkon sayısını giriniz: ");
             balkonSayisi = Convert.ToInt32(Console.ReadLine());
             AylikOdeme(cephe, balkonSayisi, daireDurumu);
-            
+            VeriCek();
         }
 
         public void AylikOdeme(string cephe,int banyoSayisi,string daireDurumu)

@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.32126.315
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uygulama1", "Uygulama1\Uygulama1.csproj", "{6399BAB0-7B48-4240-9BE0-3227A334C68F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uygulama2", "Uygulama2\Uygulama2.csproj", "{5EAE8E0B-CBB0-4433-BCCF-12F1D1156F0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elektronik", "Elektronik\Elektronik.csproj", "{81144683-CC60-4592-991C-43AA015B8E7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{6399BAB0-7B48-4240-9BE0-3227A334C68F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6399BAB0-7B48-4240-9BE0-3227A334C68F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6399BAB0-7B48-4240-9BE0-3227A334C68F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EAE8E0B-CBB0-4433-BCCF-12F1D1156F0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EAE8E0B-CBB0-4433-BCCF-12F1D1156F0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EAE8E0B-CBB0-4433-BCCF-12F1D1156F0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EAE8E0B-CBB0-4433-BCCF-12F1D1156F0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81144683-CC60-4592-991C-43AA015B8E7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81144683-CC60-4592-991C-43AA015B8E7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81144683-CC60-4592-991C-43AA015B8E7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81144683-CC60-4592-991C-43AA015B8E7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
