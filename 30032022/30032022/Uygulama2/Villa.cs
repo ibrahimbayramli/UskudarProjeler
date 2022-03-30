@@ -32,7 +32,7 @@ namespace Uygulama2
         {
             get { return bahceM2; }
             set { 
-                if (value > 100)
+                if (value >= 100)
                 {
                     bahceM2 = value;
                 }

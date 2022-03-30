@@ -45,7 +45,7 @@ namespace Uygulama2
             Console.Write("Fiyat giriniz: ");
             fiyat = Convert.ToDouble(Console.ReadLine());
             Teklifler(fiyat);
-            
+
             Console.WriteLine($"Ev zamı: {EvZam(odaSayisi, m2, fiyat)}");
             Console.WriteLine($"M2 fiyatı: {M2FiyatBul(arsaDurumu, iskanDurumu, m2, fiyat)}");
             
