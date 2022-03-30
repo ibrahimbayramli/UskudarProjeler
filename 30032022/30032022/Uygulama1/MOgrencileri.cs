@@ -13,6 +13,13 @@ namespace Uygulama1
         private string bolumHocasi;
         private string kampus;
 
+        public MOgrencileri()
+        {
+            bolumNo = 47;
+            bolumHocasi = "ahmetcan";
+            bolumAdi = "bilgisayar";
+            kampus = "altunizade";
+        }
         public int BolumNo
         {
             get { return bolumNo; }

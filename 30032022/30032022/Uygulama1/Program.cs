@@ -22,6 +22,24 @@ namespace Uygulama1
 
             Console.WriteLine($"Öğrenci No: {ogr1.ogrNo}");
             Console.WriteLine($"Öğrenci Ad-Soyad: {ogr1.ogAdSoyad}");
+
+            MOgrencileri m1 = new MOgrencileri();
+            Console.Write("Bölüm no giriniz: ");
+            m1.BolumNo = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Bölüm adı giriniz: ");
+            m1.BolumAdi = Console.ReadLine();
+            Console.Write("Hoca adı giriniz: ");
+            m1.BolumHoca = Console.ReadLine();
+            Console.Write("Kampüs giriniz: ");
+            m1.BolumKampus= Console.ReadLine();
+
+            Console.Clear();
+
+            Console.WriteLine($"Bölüm No: {m1.BolumNo}");
+            Console.WriteLine($"Bölüm Adı: {m1.BolumAdi}");
+            Console.WriteLine($"Hoca adı: {m1.BolumHoca}");
+            Console.WriteLine($"Kampüs: {m1.BolumKampus}");
+
             Console.ReadKey();
         }
     }
