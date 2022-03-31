@@ -8,8 +8,28 @@ namespace Uygulama1
 {
     class Ogrenciler
     {
-        public int ogrNo;
-        public string ogAdSoyad;
+        
+        private int ogrNo;
+        private string ogAdSoyad;
+
+        public int OgrNo
+        {
+            get { return ogrNo; }
+            set
+            {
+                if (value == 5) ogrNo = value;
+                else Console.WriteLine("Değer atayamam.");
+            }
+        }
+        public string OgAdSoyad
+        {
+            get { return ogAdSoyad; }
+            set
+            {
+                if (value == "ali") ogAdSoyad = value;
+                else Console.WriteLine("Böyle bir öğrenci yoktur...");
+            }
+        }
 
         public Ogrenciler()
         {
