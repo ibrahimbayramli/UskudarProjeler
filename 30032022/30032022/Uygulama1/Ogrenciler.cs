@@ -31,10 +31,10 @@ namespace Uygulama1
             }
         }
 
-        public Ogrenciler()
+        public Ogrenciler(int no, string adSoyad)
         {
-            ogrNo = 5;
-            ogAdSoyad = "Nihal";
+            this.ogrNo = no;
+            this.ogAdSoyad = adSoyad;
         }
     }
 }

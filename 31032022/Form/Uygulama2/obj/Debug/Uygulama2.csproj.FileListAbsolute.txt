@@ -1,0 +1,11 @@
+C:\Users\STUDENT2\Desktop\UskudarProjeler\31032022\Form\Uygulama2\bin\Debug\Uygulama2.exe.config
+C:\Users\STUDENT2\Desktop\UskudarProjeler\31032022\Form\Uygulama2\bin\Debug\Uygulama2.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\31032022\Form\Uygulama2\bin\Debug\Uygulama2.pdb
+C:\Users\STUDENT2\Desktop\UskudarProjeler\31032022\Form\Uygulama2\obj\Debug\Uygulama2.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\31032022\Form\Uygulama2\obj\Debug\Uygulama2.Form1.resources
+C:\Users\STUDENT2\Desktop\UskudarProjeler\31032022\Form\Uygulama2\obj\Debug\Uygulama2.Properties.Resources.resources
+C:\Users\STUDENT2\Desktop\UskudarProjeler\31032022\Form\Uygulama2\obj\Debug\Uygulama2.csproj.GenerateResource.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\31032022\Form\Uygulama2\obj\Debug\Uygulama2.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\31032022\Form\Uygulama2\obj\Debug\Uygulama2.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\31032022\Form\Uygulama2\obj\Debug\Uygulama2.pdb
+C:\Users\STUDENT2\Desktop\UskudarProjeler\31032022\Form\Uygulama2\obj\Debug\Uygulama2.Menuler.resources
