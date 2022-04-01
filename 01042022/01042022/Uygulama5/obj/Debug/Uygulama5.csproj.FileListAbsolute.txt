@@ -1,0 +1,11 @@
+C:\Users\STUDENT2\Desktop\UskudarProjeler\01042022\01042022\Uygulama5\bin\Debug\Uygulama5.exe.config
+C:\Users\STUDENT2\Desktop\UskudarProjeler\01042022\01042022\Uygulama5\bin\Debug\Uygulama5.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\01042022\01042022\Uygulama5\bin\Debug\Uygulama5.pdb
+C:\Users\STUDENT2\Desktop\UskudarProjeler\01042022\01042022\Uygulama5\obj\Debug\Uygulama5.Apartman.resources
+C:\Users\STUDENT2\Desktop\UskudarProjeler\01042022\01042022\Uygulama5\obj\Debug\Uygulama5.Bilgiler.resources
+C:\Users\STUDENT2\Desktop\UskudarProjeler\01042022\01042022\Uygulama5\obj\Debug\Uygulama5.Form1.resources
+C:\Users\STUDENT2\Desktop\UskudarProjeler\01042022\01042022\Uygulama5\obj\Debug\Uygulama5.Properties.Resources.resources
+C:\Users\STUDENT2\Desktop\UskudarProjeler\01042022\01042022\Uygulama5\obj\Debug\Uygulama5.csproj.GenerateResource.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\01042022\01042022\Uygulama5\obj\Debug\Uygulama5.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\01042022\01042022\Uygulama5\obj\Debug\Uygulama5.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\01042022\01042022\Uygulama5\obj\Debug\Uygulama5.pdb
