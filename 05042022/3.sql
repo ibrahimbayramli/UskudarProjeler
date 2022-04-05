@@ -36,3 +36,11 @@ select * from personeller where PersonelID=1 or PersonelID=2 or PersonelID=4
 -- OR'daki koþulu sürekli tekrarlamak yerine bir kere yazmak için IN kullanýlýr.
 
 select * from Personeller where PersonelID in(1,2,4)
+
+select * from Urunler where UrunAdi='chai'
+update Urunler set HedefStokDuzeyi+=20 where UrunAdi='chai'
+select * from Urunler where UrunAdi='chai' 
+
+select * from Urunler where UrunAdi='Ikura'
+update Urunler set HedefStokDuzeyi-=10 where UrunAdi='Ikura'
+select * from Urunler where UrunAdi='Ikura' 
