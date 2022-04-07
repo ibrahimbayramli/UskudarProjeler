@@ -1,7 +1,7 @@
---ürünler tablosundan ürün adýna göre gruplandýrma yapýp hedef stok düzeyi ortalamasýný alan sorguyu yaz.
+--urunler tablosundan urun adina gore gruplandirma yapip hedef stok duzeyi ortalamasini alan sorguyu yaz.
 
 select AVG(HedefStokDuzeyi) from Urunler group by UrunAdi
 
---ürünler tablosundan hedef stok düzeyi 42 den küçük olanlarý ürün adýna göre gruplandýrýp birim fiyatýnýn toplamýný veren sorgu
+--urunler tablosundan hedef stok duzeyi 42 den kuçuk olanlari urun adina gore gruplandirip birim fiyatinin toplamini veren sorguyu yaziniz
 
 select sum(BirimFiyati) from Urunler where HedefStokDuzeyi<42 group by UrunAdi
