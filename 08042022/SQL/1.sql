@@ -53,3 +53,27 @@ end
 
 exec Sorgula 30,25
 
+-- yenileme proc
+create proc Pyenile
+@PersonelNo int,
+@AdSoyad varchar(50),
+@Meslek varchar(50),
+@Yas int,
+@Maas money,
+@Prim money,
+@Memleket varchar(50)
+as begin
+update Personeller set AdSoyad=@AdSoyad,Meslek=@Meslek,Yas=@Yas,Maas=@Maas,Pirim=@Prim,Memleket=@Memleket where PersonelNo=@PersonelNo
+end
+
+exec Pyenile 100,'ibrahim bayramli','dev',49,1500,10,'istanbul'
+
+exec VerileriCek
+
+create proc Psil
+@PersonelNo int
+as begin
+delete from Personeller where PersonelNo=@PersonelNo
+end
+
+exec Psil 100
