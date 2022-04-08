@@ -48,8 +48,8 @@ alter proc Sorgula
 @UstSinir int, 
 @AltSinir int
 as begin
-select * from Personeller where Yas<@UstSinir or Yas>@UstSinir
+select * from Personeller where Yas<@UstSinir and Yas>@AltSinir
 end 
 
-exec Sorgula 25,30
+exec Sorgula 30,25
 
