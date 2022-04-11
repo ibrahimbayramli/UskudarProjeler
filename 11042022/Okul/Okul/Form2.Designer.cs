@@ -218,7 +218,7 @@ namespace Okul
             // 
             // button5
             // 
-            this.button5.Location = new System.Drawing.Point(561, 480);
+            this.button5.Location = new System.Drawing.Point(562, 480);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(86, 25);
             this.button5.TabIndex = 15;
@@ -227,7 +227,7 @@ namespace Okul
             // 
             // button6
             // 
-            this.button6.Location = new System.Drawing.Point(653, 480);
+            this.button6.Location = new System.Drawing.Point(654, 480);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(86, 25);
             this.button6.TabIndex = 15;
@@ -236,7 +236,7 @@ namespace Okul
             // 
             // button7
             // 
-            this.button7.Location = new System.Drawing.Point(745, 480);
+            this.button7.Location = new System.Drawing.Point(746, 480);
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(86, 25);
             this.button7.TabIndex = 15;
@@ -255,7 +255,7 @@ namespace Okul
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(853, 517);
+            this.ClientSize = new System.Drawing.Size(844, 517);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.button7);
             this.Controls.Add(this.button6);

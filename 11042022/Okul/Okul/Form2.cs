@@ -56,8 +56,9 @@ namespace Okul
             komut.ExecuteNonQuery();
             con1.Close();
             Goster();
+            Temizle();
         }
-
+      
         private void button3_Click(object sender, EventArgs e)
         {
             con1.Open();
@@ -69,8 +70,18 @@ namespace Okul
             komut.ExecuteNonQuery();
             con1.Close();
             Goster();
+            Temizle();
         }
-
+        public void Temizle()
+        {
+            textBox1.Clear();
+            textBox2.Clear();
+            maskedTextBox1.Clear();
+            maskedTextBox2.Clear();
+            textBox5.Clear();
+            textBox6.Clear();
+            textBox7.Clear();
+        }
         private void button2_Click(object sender, EventArgs e)
         {
             con1.Open();
@@ -88,6 +99,7 @@ namespace Okul
             komut.ExecuteNonQuery();
             con1.Close();
             Goster();
+            Temizle();
         }
         private void dataGridView1_CellClick(object sender,DataGridViewCellEventArgs e)
         {
