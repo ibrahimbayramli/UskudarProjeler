@@ -1,0 +1,11 @@
+C:\Users\STUDENT2\source\repos\Okul\Okul\bin\Debug\Okul.exe.config
+C:\Users\STUDENT2\source\repos\Okul\Okul\bin\Debug\Okul.exe
+C:\Users\STUDENT2\source\repos\Okul\Okul\bin\Debug\Okul.pdb
+C:\Users\STUDENT2\source\repos\Okul\Okul\obj\Debug\Okul.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\source\repos\Okul\Okul\obj\Debug\Okul.Form1.resources
+C:\Users\STUDENT2\source\repos\Okul\Okul\obj\Debug\Okul.Form2.resources
+C:\Users\STUDENT2\source\repos\Okul\Okul\obj\Debug\Okul.Properties.Resources.resources
+C:\Users\STUDENT2\source\repos\Okul\Okul\obj\Debug\Okul.csproj.GenerateResource.cache
+C:\Users\STUDENT2\source\repos\Okul\Okul\obj\Debug\Okul.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\source\repos\Okul\Okul\obj\Debug\Okul.exe
+C:\Users\STUDENT2\source\repos\Okul\Okul\obj\Debug\Okul.pdb
