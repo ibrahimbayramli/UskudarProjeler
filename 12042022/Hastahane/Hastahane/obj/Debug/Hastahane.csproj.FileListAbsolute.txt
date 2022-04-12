@@ -1,0 +1,10 @@
+C:\Users\STUDENT2\Desktop\UskudarProjeler\12042022\Hastahane\Hastahane\bin\Debug\Hastahane.exe.config
+C:\Users\STUDENT2\Desktop\UskudarProjeler\12042022\Hastahane\Hastahane\bin\Debug\Hastahane.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\12042022\Hastahane\Hastahane\bin\Debug\Hastahane.pdb
+C:\Users\STUDENT2\Desktop\UskudarProjeler\12042022\Hastahane\Hastahane\obj\Debug\Hastahane.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\12042022\Hastahane\Hastahane\obj\Debug\Hastahane.Giris.resources
+C:\Users\STUDENT2\Desktop\UskudarProjeler\12042022\Hastahane\Hastahane\obj\Debug\Hastahane.Properties.Resources.resources
+C:\Users\STUDENT2\Desktop\UskudarProjeler\12042022\Hastahane\Hastahane\obj\Debug\Hastahane.csproj.GenerateResource.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\12042022\Hastahane\Hastahane\obj\Debug\Hastahane.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\12042022\Hastahane\Hastahane\obj\Debug\Hastahane.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\12042022\Hastahane\Hastahane\obj\Debug\Hastahane.pdb
