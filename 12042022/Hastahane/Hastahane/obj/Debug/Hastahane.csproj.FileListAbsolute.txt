@@ -9,3 +9,5 @@ C:\Users\STUDENT2\Desktop\UskudarProjeler\12042022\Hastahane\Hastahane\obj\Debug
 C:\Users\STUDENT2\Desktop\UskudarProjeler\12042022\Hastahane\Hastahane\obj\Debug\Hastahane.exe
 C:\Users\STUDENT2\Desktop\UskudarProjeler\12042022\Hastahane\Hastahane\obj\Debug\Hastahane.pdb
 C:\Users\STUDENT2\Desktop\UskudarProjeler\12042022\Hastahane\Hastahane\obj\Debug\Hastahane.Hastalar.resources
+C:\Users\STUDENT2\Desktop\UskudarProjeler\12042022\Hastahane\Hastahane\obj\Debug\Hastahane.Poliklinikler.resources
+C:\Users\STUDENT2\Desktop\UskudarProjeler\12042022\Hastahane\Hastahane\obj\Debug\Hastahane.Doktorlar.resources

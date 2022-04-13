@@ -78,6 +78,9 @@
     <Compile Include="Receteler.Designer.cs">
       <DependentUpon>Receteler.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Doktorlar.resx">
+      <DependentUpon>Doktorlar.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Giris.resx">
       <DependentUpon>Giris.cs</DependentUpon>
     </EmbeddedResource>
