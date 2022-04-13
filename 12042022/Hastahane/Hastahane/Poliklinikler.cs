@@ -16,5 +16,10 @@ namespace Hastahane
         {
             InitializeComponent();
         }
+
+        private void Poliklinikler_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

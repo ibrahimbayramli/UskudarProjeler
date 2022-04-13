@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace Hastahane
 {
-    public partial class Hastalar : Form
+    public partial class Receteler : Form
     {
-        public Hastalar()
+        public Receteler()
         {
             InitializeComponent();
-        }
-
-        private void Hastalar_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }
