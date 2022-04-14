@@ -12,3 +12,4 @@ C:\Users\STUDENT2\Desktop\UskudarProjeler\12042022\Hastahane\Hastahane\obj\Debug
 C:\Users\STUDENT2\Desktop\UskudarProjeler\12042022\Hastahane\Hastahane\obj\Debug\Hastahane.Poliklinikler.resources
 C:\Users\STUDENT2\Desktop\UskudarProjeler\12042022\Hastahane\Hastahane\obj\Debug\Hastahane.Doktorlar.resources
 C:\Users\STUDENT2\Desktop\UskudarProjeler\12042022\Hastahane\Hastahane\obj\Debug\Hastahane.Anasayfa.resources
+C:\Users\STUDENT2\Desktop\UskudarProjeler\12042022\Hastahane\Hastahane\obj\Debug\Hastahane.Receteler.resources

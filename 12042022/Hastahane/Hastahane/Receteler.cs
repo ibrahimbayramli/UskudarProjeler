@@ -16,5 +16,12 @@ namespace Hastahane
         {
             InitializeComponent();
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Anasayfa a1 = new Anasayfa();
+            a1.Show();
+        }
     }
 }
