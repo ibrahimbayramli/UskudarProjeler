@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Data.SqlClient;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -16,7 +17,7 @@ namespace Hastahane
         {
             InitializeComponent();
         }
-
+        SqlConnection baglanti = new SqlConnection("Server=DESKTOP-MO5HLC4\\SQLEXPRESS;Database=Okul;Integrated Security=true");
         private void Hastalar_Load(object sender, EventArgs e)
         {
 
