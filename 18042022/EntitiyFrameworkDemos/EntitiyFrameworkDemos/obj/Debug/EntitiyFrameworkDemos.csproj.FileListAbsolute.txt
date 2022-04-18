@@ -1,0 +1,10 @@
+C:\Users\STUDENT2\Desktop\UskudarProjeler\18042022\EntitiyFrameworkDemos\EntitiyFrameworkDemos\bin\Debug\EntitiyFrameworkDemos.exe.config
+C:\Users\STUDENT2\Desktop\UskudarProjeler\18042022\EntitiyFrameworkDemos\EntitiyFrameworkDemos\bin\Debug\EntitiyFrameworkDemos.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\18042022\EntitiyFrameworkDemos\EntitiyFrameworkDemos\bin\Debug\EntitiyFrameworkDemos.pdb
+C:\Users\STUDENT2\Desktop\UskudarProjeler\18042022\EntitiyFrameworkDemos\EntitiyFrameworkDemos\obj\Debug\EntitiyFrameworkDemos.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\18042022\EntitiyFrameworkDemos\EntitiyFrameworkDemos\obj\Debug\EntitiyFrameworkDemos.Form1.resources
+C:\Users\STUDENT2\Desktop\UskudarProjeler\18042022\EntitiyFrameworkDemos\EntitiyFrameworkDemos\obj\Debug\EntitiyFrameworkDemos.Properties.Resources.resources
+C:\Users\STUDENT2\Desktop\UskudarProjeler\18042022\EntitiyFrameworkDemos\EntitiyFrameworkDemos\obj\Debug\EntitiyFrameworkDemos.csproj.GenerateResource.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\18042022\EntitiyFrameworkDemos\EntitiyFrameworkDemos\obj\Debug\EntitiyFrameworkDemos.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\18042022\EntitiyFrameworkDemos\EntitiyFrameworkDemos\obj\Debug\EntitiyFrameworkDemos.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\18042022\EntitiyFrameworkDemos\EntitiyFrameworkDemos\obj\Debug\EntitiyFrameworkDemos.pdb

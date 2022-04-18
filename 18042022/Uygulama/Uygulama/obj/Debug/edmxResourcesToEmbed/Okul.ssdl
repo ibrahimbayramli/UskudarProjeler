@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="OkulModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Hocalar">
+    <Key>
+      <PropertyRef Name="HocaNo" />
+    </Key>
+    <Property Name="HocaNo" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AdSoyad" Type="varchar" MaxLength="50" />
+    <Property Name="Brans" Type="varchar" MaxLength="50" />
+    <Property Name="Unvan" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Ogrenciler">
+    <Key>
+      <PropertyRef Name="OgrenciNo" />
+    </Key>
+    <Property Name="OgrenciNo" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AdSoyad" Type="varchar" MaxLength="50" />
+    <Property Name="TcNo" Type="char" MaxLength="11" />
+    <Property Name="Telefon" Type="nchar" MaxLength="11" />
+    <Property Name="Mail" Type="varchar" MaxLength="50" />
+    <Property Name="Adres" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityContainer Name="OkulModelStoreContainer">
+    <EntitySet Name="Hocalar" EntityType="Self.Hocalar" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Ogrenciler" EntityType="Self.Ogrenciler" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

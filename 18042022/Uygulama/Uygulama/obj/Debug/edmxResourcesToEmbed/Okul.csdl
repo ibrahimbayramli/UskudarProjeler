@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="OkulModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Ogrenciler">
+    <Key>
+      <PropertyRef Name="OgrenciNo" />
+    </Key>
+    <Property Name="OgrenciNo" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="AdSoyad" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="TcNo" Type="String" MaxLength="11" FixedLength="true" Unicode="false" />
+    <Property Name="Telefon" Type="String" MaxLength="11" FixedLength="true" Unicode="true" />
+    <Property Name="Mail" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Adres" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityContainer Name="OkulEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Ogrencilers" EntityType="Self.Ogrenciler" />
+    <EntitySet Name="Hocalars" EntityType="OkulModel.Hocalar" />
+  </EntityContainer>
+  <EntityType Name="Hocalar">
+    <Key>
+      <PropertyRef Name="HocaNo" />
+    </Key>
+    <Property Name="HocaNo" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="AdSoyad" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Brans" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Unvan" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+</Schema>
