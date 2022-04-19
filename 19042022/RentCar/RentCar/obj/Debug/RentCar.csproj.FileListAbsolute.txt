@@ -1,0 +1,10 @@
+C:\Users\STUDENT2\Desktop\UskudarProjeler\19042022\RentCar\RentCar\bin\Debug\RentCar.exe.config
+C:\Users\STUDENT2\Desktop\UskudarProjeler\19042022\RentCar\RentCar\bin\Debug\RentCar.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\19042022\RentCar\RentCar\bin\Debug\RentCar.pdb
+C:\Users\STUDENT2\Desktop\UskudarProjeler\19042022\RentCar\RentCar\obj\Debug\RentCar.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\19042022\RentCar\RentCar\obj\Debug\RentCar.Giris.resources
+C:\Users\STUDENT2\Desktop\UskudarProjeler\19042022\RentCar\RentCar\obj\Debug\RentCar.Properties.Resources.resources
+C:\Users\STUDENT2\Desktop\UskudarProjeler\19042022\RentCar\RentCar\obj\Debug\RentCar.csproj.GenerateResource.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\19042022\RentCar\RentCar\obj\Debug\RentCar.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\19042022\RentCar\RentCar\obj\Debug\RentCar.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\19042022\RentCar\RentCar\obj\Debug\RentCar.pdb
