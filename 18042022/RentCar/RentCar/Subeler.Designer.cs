@@ -1,5 +1,4 @@
-﻿
-namespace RentCar
+﻿namespace RentCar
 {
     partial class Subeler
     {
