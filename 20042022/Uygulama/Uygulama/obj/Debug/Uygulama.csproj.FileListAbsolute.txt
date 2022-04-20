@@ -1,0 +1,15 @@
+C:\Users\STUDENT2\Desktop\UskudarProjeler\20042022\Uygulama\Uygulama\bin\Debug\Uygulama.exe.config
+C:\Users\STUDENT2\Desktop\UskudarProjeler\20042022\Uygulama\Uygulama\bin\Debug\Uygulama.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\20042022\Uygulama\Uygulama\bin\Debug\Uygulama.pdb
+C:\Users\STUDENT2\Desktop\UskudarProjeler\20042022\Uygulama\Uygulama\bin\Debug\EntityFramework.dll
+C:\Users\STUDENT2\Desktop\UskudarProjeler\20042022\Uygulama\Uygulama\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\STUDENT2\Desktop\UskudarProjeler\20042022\Uygulama\Uygulama\bin\Debug\EntityFramework.xml
+C:\Users\STUDENT2\Desktop\UskudarProjeler\20042022\Uygulama\Uygulama\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\STUDENT2\Desktop\UskudarProjeler\20042022\Uygulama\Uygulama\obj\Debug\Uygulama.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\20042022\Uygulama\Uygulama\obj\Debug\Uygulama.Form1.resources
+C:\Users\STUDENT2\Desktop\UskudarProjeler\20042022\Uygulama\Uygulama\obj\Debug\Uygulama.Properties.Resources.resources
+C:\Users\STUDENT2\Desktop\UskudarProjeler\20042022\Uygulama\Uygulama\obj\Debug\Uygulama.csproj.GenerateResource.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\20042022\Uygulama\Uygulama\obj\Debug\Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\20042022\Uygulama\Uygulama\obj\Debug\Uygulama.csproj.CopyComplete
+C:\Users\STUDENT2\Desktop\UskudarProjeler\20042022\Uygulama\Uygulama\obj\Debug\Uygulama.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\20042022\Uygulama\Uygulama\obj\Debug\Uygulama.pdb
