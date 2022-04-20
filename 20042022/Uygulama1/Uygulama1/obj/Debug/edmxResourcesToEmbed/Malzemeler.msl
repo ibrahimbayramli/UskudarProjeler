@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MalzemelerStoreContainer" CdmEntityContainer="MalzemelerContainer">
+    <EntitySetMapping Name="Malzeme">
+      <EntityTypeMapping TypeName="IsTypeOf(Malzemeler.Malzeme)">
+        <MappingFragment StoreEntitySet="Malzeme">
+          <ScalarProperty Name="MalzemeId" ColumnName="MalzemeId" />
+          <ScalarProperty Name="MalzemeAdi" ColumnName="MalzemeAdi" />
+          <ScalarProperty Name="MalzemeAdet" ColumnName="MalzemeAdet" />
+          <ScalarProperty Name="MalzemeFiyat" ColumnName="MalzemeFiyat" />
+          <ScalarProperty Name="MalzemeDepoAdi" ColumnName="MalzemeDepoAdi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tedarikciler">
+      <EntityTypeMapping TypeName="IsTypeOf(Malzemeler.Tedarikciler)">
+        <MappingFragment StoreEntitySet="Tedarikciler">
+          <ScalarProperty Name="TNo" ColumnName="TNo" />
+          <ScalarProperty Name="TAdi" ColumnName="TAdi" />
+          <ScalarProperty Name="TAdres" ColumnName="TAdres" />
+          <ScalarProperty Name="TTel" ColumnName="TTel" />
+          <ScalarProperty Name="MalzemeId" ColumnName="MalzemeId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

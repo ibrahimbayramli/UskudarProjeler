@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Malzemeler.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2012" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="MalzemelerStoreContainer">
+    <EntitySet Name="Malzeme" EntityType="Malzemeler.Store.Malzeme" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Tedarikciler" EntityType="Malzemeler.Store.Tedarikciler" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="MalzemeTedarikciler" Association="Malzemeler.Store.MalzemeTedarikciler">
+      <End Role="Malzeme" EntitySet="Malzeme" />
+      <End Role="Tedarikciler" EntitySet="Tedarikciler" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Malzeme">
+    <Key>
+      <PropertyRef Name="MalzemeId" />
+    </Key>
+    <Property Name="MalzemeId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MalzemeAdi" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="MalzemeAdet" Type="int" Nullable="false" />
+    <Property Name="MalzemeFiyat" Type="decimal" Nullable="false" />
+    <Property Name="MalzemeDepoAdi" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Tedarikciler">
+    <Key>
+      <PropertyRef Name="TNo" />
+    </Key>
+    <Property Name="TNo" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TAdi" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="TAdres" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="TTel" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="MalzemeId" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="MalzemeTedarikciler">
+    <End Role="Malzeme" Type="Malzemeler.Store.Malzeme" Multiplicity="1" />
+    <End Role="Tedarikciler" Type="Malzemeler.Store.Tedarikciler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Malzeme">
+        <PropertyRef Name="MalzemeId" />
+      </Principal>
+      <Dependent Role="Tedarikciler">
+        <PropertyRef Name="MalzemeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

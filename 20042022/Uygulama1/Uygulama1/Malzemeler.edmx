@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="Malzemeler.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2012" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="MalzemelerStoreContainer">
+    <EntitySet Name="Malzeme" EntityType="Malzemeler.Store.Malzeme" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Tedarikciler" EntityType="Malzemeler.Store.Tedarikciler" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="MalzemeTedarikciler" Association="Malzemeler.Store.MalzemeTedarikciler">
+      <End Role="Malzeme" EntitySet="Malzeme" />
+      <End Role="Tedarikciler" EntitySet="Tedarikciler" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Malzeme">
+    <Key>
+      <PropertyRef Name="MalzemeId" />
+    </Key>
+    <Property Name="MalzemeId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MalzemeAdi" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="MalzemeAdet" Type="int" Nullable="false" />
+    <Property Name="MalzemeFiyat" Type="decimal" Nullable="false" />
+    <Property Name="MalzemeDepoAdi" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Tedarikciler">
+    <Key>
+      <PropertyRef Name="TNo" />
+    </Key>
+    <Property Name="TNo" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TAdi" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="TAdres" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="TTel" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="MalzemeId" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="MalzemeTedarikciler">
+    <End Role="Malzeme" Type="Malzemeler.Store.Malzeme" Multiplicity="1" />
+    <End Role="Tedarikciler" Type="Malzemeler.Store.Tedarikciler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Malzeme">
+        <PropertyRef Name="MalzemeId" />
+      </Principal>
+      <Dependent Role="Tedarikciler">
+        <PropertyRef Name="MalzemeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="Malzemeler" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+        <EntityContainer Name="MalzemelerContainer" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Malzeme" EntityType="Malzemeler.Malzeme" />
+          <EntitySet Name="Tedarikciler" EntityType="Malzemeler.Tedarikciler" />
+          <AssociationSet Name="MalzemeTedarikciler" Association="Malzemeler.MalzemeTedarikciler">
+            <End Role="Malzeme" EntitySet="Malzeme" />
+            <End Role="Tedarikciler" EntitySet="Tedarikciler" />
+          </AssociationSet>
+        </EntityContainer>
+        <EntityType Name="Malzeme">
+          <Key>
+            <PropertyRef Name="MalzemeId" />
+          </Key>
+          <Property Name="MalzemeId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="MalzemeAdi" Type="String" Nullable="false" />
+          <Property Name="MalzemeAdet" Type="Int32" Nullable="false" />
+          <Property Name="MalzemeFiyat" Type="Decimal" Nullable="false" />
+          <Property Name="MalzemeDepoAdi" Type="String" Nullable="false" />
+          <NavigationProperty Name="Tedarikciler" Relationship="Malzemeler.MalzemeTedarikciler" FromRole="Malzeme" ToRole="Tedarikciler" />
+        </EntityType>
+        <EntityType Name="Tedarikciler">
+          <Key>
+            <PropertyRef Name="TNo" />
+          </Key>
+          <Property Name="TNo" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="TAdi" Type="String" Nullable="false" />
+          <Property Name="TAdres" Type="String" Nullable="false" />
+          <Property Name="TTel" Type="String" Nullable="false" />
+          <NavigationProperty Name="Malzeme" Relationship="Malzemeler.MalzemeTedarikciler" FromRole="Tedarikciler" ToRole="Malzeme" />
+          <Property Name="MalzemeId" Type="Int32" Nullable="false" />
+        </EntityType>
+        <Association Name="MalzemeTedarikciler">
+          <End Type="Malzemeler.Malzeme" Role="Malzeme" Multiplicity="1" />
+          <End Type="Malzemeler.Tedarikciler" Role="Tedarikciler" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Malzeme">
+              <PropertyRef Name="MalzemeId" />
+            </Principal>
+            <Dependent Role="Tedarikciler">
+              <PropertyRef Name="MalzemeId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+    <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MalzemelerStoreContainer" CdmEntityContainer="MalzemelerContainer">
+    <EntitySetMapping Name="Malzeme">
+      <EntityTypeMapping TypeName="IsTypeOf(Malzemeler.Malzeme)">
+        <MappingFragment StoreEntitySet="Malzeme">
+          <ScalarProperty Name="MalzemeId" ColumnName="MalzemeId" />
+          <ScalarProperty Name="MalzemeAdi" ColumnName="MalzemeAdi" />
+          <ScalarProperty Name="MalzemeAdet" ColumnName="MalzemeAdet" />
+          <ScalarProperty Name="MalzemeFiyat" ColumnName="MalzemeFiyat" />
+          <ScalarProperty Name="MalzemeDepoAdi" ColumnName="MalzemeDepoAdi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tedarikciler">
+      <EntityTypeMapping TypeName="IsTypeOf(Malzemeler.Tedarikciler)">
+        <MappingFragment StoreEntitySet="Tedarikciler">
+          <ScalarProperty Name="TNo" ColumnName="TNo" />
+          <ScalarProperty Name="TAdi" ColumnName="TAdi" />
+          <ScalarProperty Name="TAdres" ColumnName="TAdres" />
+          <ScalarProperty Name="TTel" ColumnName="TTel" />
+          <ScalarProperty Name="MalzemeId" ColumnName="MalzemeId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping></edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <edmx:Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </edmx:Connection>
+    <edmx:Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="False" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+        <DesignerProperty Name="UseLegacyProvider" Value="False" />
+      </DesignerInfoPropertySet>
+    </edmx:Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
