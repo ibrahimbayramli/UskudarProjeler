@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="RentCarModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Araclar">
+    <Key>
+      <PropertyRef Name="AracNo" />
+    </Key>
+    <Property Name="AracNo" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Marka" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Model" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Yil" Type="Int32" />
+    <Property Name="Yakit" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="KasaTipi" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Sinif" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="SubeNo" Type="Int32" Nullable="false" />
+    <Property Name="MusteriNo" Type="Int32" />
+    <NavigationProperty Name="Musteriler" Relationship="Self.FK_Araclar_Musteriler" FromRole="Araclar" ToRole="Musteriler" />
+    <NavigationProperty Name="Subeler" Relationship="Self.FK_Araclar_Subeler" FromRole="Araclar" ToRole="Subeler" />
+  </EntityType>
+  <EntityType Name="Kullanicilar">
+    <Key>
+      <PropertyRef Name="KullniciNo" />
+    </Key>
+    <Property Name="KullniciNo" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="KullaniciAdi" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Sifre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Musteriler">
+    <Key>
+      <PropertyRef Name="MusteriNo" />
+    </Key>
+    <Property Name="MusteriNo" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="MusteriAdSoyadi" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="MusteriTelefon" Type="String" MaxLength="11" FixedLength="false" Unicode="false" />
+    <Property Name="MusteriMail" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="MusteriAdres" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="MusteriTc" Type="String" MaxLength="11" FixedLength="true" Unicode="true" />
+    <NavigationProperty Name="Araclars" Relationship="Self.FK_Araclar_Musteriler" FromRole="Musteriler" ToRole="Araclar" />
+  </EntityType>
+  <EntityType Name="Personeller">
+    <Key>
+      <PropertyRef Name="PersonelNo" />
+    </Key>
+    <Property Name="PersonelNo" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PersonelAdSoyad" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="PersonelTelefon" Type="String" MaxLength="11" FixedLength="false" Unicode="false" />
+    <Property Name="PersonelTc" Type="String" MaxLength="11" FixedLength="true" Unicode="true" />
+    <Property Name="PersonelAdres" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="PersonelMaas" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="SubeNo" Type="Int32" />
+    <NavigationProperty Name="Subeler" Relationship="Self.FK_Personeller_Subeler" FromRole="Personeller" ToRole="Subeler" />
+  </EntityType>
+  <EntityType Name="Subeler">
+    <Key>
+      <PropertyRef Name="SubeNo" />
+    </Key>
+    <Property Name="SubeNo" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SubeAdi" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="SubeAdres" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="PersonelSayisi" Type="Int32" />
+    <Property Name="AracSayisi" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <NavigationProperty Name="Araclars" Relationship="Self.FK_Araclar_Subeler" FromRole="Subeler" ToRole="Araclar" />
+    <NavigationProperty Name="Personellers" Relationship="Self.FK_Personeller_Subeler" FromRole="Subeler" ToRole="Personeller" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <Association Name="FK_Araclar_Musteriler">
+    <End Role="Musteriler" Type="Self.Musteriler" Multiplicity="0..1" />
+    <End Role="Araclar" Type="Self.Araclar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Musteriler">
+        <PropertyRef Name="MusteriNo" />
+      </Principal>
+      <Dependent Role="Araclar">
+        <PropertyRef Name="MusteriNo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Araclar_Subeler">
+    <End Role="Subeler" Type="Self.Subeler" Multiplicity="1" />
+    <End Role="Araclar" Type="Self.Araclar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Subeler">
+        <PropertyRef Name="SubeNo" />
+      </Principal>
+      <Dependent Role="Araclar">
+        <PropertyRef Name="SubeNo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Personeller_Subeler">
+    <End Role="Subeler" Type="Self.Subeler" Multiplicity="0..1" />
+    <End Role="Personeller" Type="Self.Personeller" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Subeler">
+        <PropertyRef Name="SubeNo" />
+      </Principal>
+      <Dependent Role="Personeller">
+        <PropertyRef Name="SubeNo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="RentCarEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Araclars" EntityType="Self.Araclar" />
+    <EntitySet Name="Kullanicilars" EntityType="Self.Kullanicilar" />
+    <EntitySet Name="Musterilers" EntityType="Self.Musteriler" />
+    <EntitySet Name="Personellers" EntityType="Self.Personeller" />
+    <EntitySet Name="Subelers" EntityType="Self.Subeler" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+    <AssociationSet Name="FK_Araclar_Musteriler" Association="Self.FK_Araclar_Musteriler">
+      <End Role="Musteriler" EntitySet="Musterilers" />
+      <End Role="Araclar" EntitySet="Araclars" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Araclar_Subeler" Association="Self.FK_Araclar_Subeler">
+      <End Role="Subeler" EntitySet="Subelers" />
+      <End Role="Araclar" EntitySet="Araclars" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Personeller_Subeler" Association="Self.FK_Personeller_Subeler">
+      <End Role="Subeler" EntitySet="Subelers" />
+      <End Role="Personeller" EntitySet="Personellers" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

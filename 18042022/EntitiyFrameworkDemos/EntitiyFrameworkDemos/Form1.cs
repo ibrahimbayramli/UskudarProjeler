@@ -24,7 +24,7 @@ namespace EntitiyFrameworkDemos
                 new Personel() { Ad="Fikret",Yasi=23},
                 new Personel() { Ad = "Fatih", Yasi = 22 },
                 new Personel() { Ad = "Merve", Yasi = 20 },
-                new Personel() { Ad="Ayşe",Yasi=21},
+                new Personel() { Ad="ayşe",Yasi=21},
                 new Personel() { Ad="Velican",Yasi=43},
             };
             //dataGridView1.DataSource = liste.Where(x => x.Ad == "Fikret").ToList();
@@ -42,7 +42,7 @@ namespace EntitiyFrameworkDemos
             // Örneğin; Skip(3) dediğimizde 0., 1., 2. elemanları atlar ve direkt 3. elemandan başlar. 
             //--------------------------------------------------------------------------------------------------------------------------------------------------
 
-            //dataGridView1.DataSource = liste.Where(x => x.Ad.Contains("a")).Take(3).ToList();
+            //dataGridView1.DataSource = liste.Where(x => x.Ad.Contains("a")).Take(4).ToList();
             // Burada adında "a" içeren elemanları getirir.
             // Normalde "Fatih" ve "Ayşe" gelecekti, ama Take(2) dediğimiz için fatih geldi.
             //--------------------------------------------------------------------------------------------------------------------------------------------------
@@ -65,7 +65,7 @@ namespace EntitiyFrameworkDemos
             // Yaşları toplar, geriye "127" sonucu döner.
             //--------------------------------------------------------------------------------------------------------------------------------------------------
 
-            //textBox1.Text = liste.Where(x => x.Yasi == liste.Max(y => y.Yasi)).Select(p => p.Ad).FirstOrDefault();
+            textBox1.Text = liste.Where(x => x.Yasi == liste.Max(y => y.Yasi)).Select(p => p.Ad).FirstOrDefault();
             //Yaşı max olan personelin ismini getirir. Sonuç "Velican" olarak geri döner.
             //--------------------------------------------------------------------------------------------------------------------------------------------------
 
