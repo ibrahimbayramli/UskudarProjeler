@@ -16,5 +16,19 @@ namespace GameCenter
         {
             InitializeComponent();
         }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+            Market m1 = new Market();
+            m1.Show();
+            this.Hide();
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            Oyun o1 = new Oyun();
+            o1.Show();
+            this.Hide();
+        }
     }
 }

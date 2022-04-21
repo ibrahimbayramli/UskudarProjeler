@@ -8,3 +8,6 @@ C:\Users\STUDENT2\Desktop\UskudarProjeler\20042022\GameCenter\GameCenter\obj\Deb
 C:\Users\STUDENT2\Desktop\UskudarProjeler\20042022\GameCenter\GameCenter\obj\Debug\GameCenter.csproj.CoreCompileInputs.cache
 C:\Users\STUDENT2\Desktop\UskudarProjeler\20042022\GameCenter\GameCenter\obj\Debug\GameCenter.exe
 C:\Users\STUDENT2\Desktop\UskudarProjeler\20042022\GameCenter\GameCenter\obj\Debug\GameCenter.pdb
+C:\Users\STUDENT2\Desktop\UskudarProjeler\20042022\GameCenter\GameCenter\obj\Debug\GameCenter.Anasayfa.resources
+C:\Users\STUDENT2\Desktop\UskudarProjeler\20042022\GameCenter\GameCenter\obj\Debug\GameCenter.Market.resources
+C:\Users\STUDENT2\Desktop\UskudarProjeler\20042022\GameCenter\GameCenter\obj\Debug\GameCenter.Oyun.resources
