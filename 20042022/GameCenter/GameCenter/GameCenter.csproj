@@ -52,7 +52,6 @@
     <Compile Include="Anasayfa.Designer.cs">
       <DependentUpon>Anasayfa.cs</DependentUpon>
     </Compile>
-    <Compile Include="Deneme.cs" />
     <Compile Include="Giris.cs">
       <SubType>Form</SubType>
     </Compile>

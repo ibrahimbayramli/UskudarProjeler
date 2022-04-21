@@ -16,5 +16,17 @@ namespace GameCenter
         {
             InitializeComponent();
         }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Anasayfa a1 = new Anasayfa();
+            a1.Show();
+        }
+
+        private void pictureBox3_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

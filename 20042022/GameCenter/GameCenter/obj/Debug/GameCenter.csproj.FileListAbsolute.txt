@@ -1,7 +1,6 @@
 C:\Users\STUDENT2\Desktop\UskudarProjeler\20042022\GameCenter\GameCenter\bin\Debug\GameCenter.exe.config
 C:\Users\STUDENT2\Desktop\UskudarProjeler\20042022\GameCenter\GameCenter\bin\Debug\GameCenter.exe
 C:\Users\STUDENT2\Desktop\UskudarProjeler\20042022\GameCenter\GameCenter\bin\Debug\GameCenter.pdb
-C:\Users\STUDENT2\Desktop\UskudarProjeler\20042022\GameCenter\GameCenter\obj\Debug\GameCenter.csproj.AssemblyReference.cache
 C:\Users\STUDENT2\Desktop\UskudarProjeler\20042022\GameCenter\GameCenter\obj\Debug\GameCenter.Giris.resources
 C:\Users\STUDENT2\Desktop\UskudarProjeler\20042022\GameCenter\GameCenter\obj\Debug\GameCenter.Properties.Resources.resources
 C:\Users\STUDENT2\Desktop\UskudarProjeler\20042022\GameCenter\GameCenter\obj\Debug\GameCenter.csproj.GenerateResource.cache
