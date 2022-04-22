@@ -27,28 +27,18 @@ namespace GameCenter
 
         }
 
-        private void pictureBox12_Click(object sender, EventArgs e)
-        {
-            this.Hide();
-            Anasayfa a2 = new Anasayfa();
-            a2.Show();
-        }
-
         private void pictureBox13_Click(object sender, EventArgs e)
         {
-            Application.Exit();
-        }
-
-        private void pictureBox13_Click_1(object sender, EventArgs e)
-        {
-            Application.Exit();
-        }
-
-        private void pictureBox12_Click_1(object sender, EventArgs e)
-        {
             this.Hide();
-            Anasayfa a2 = new Anasayfa();
-            a2.Show();
+            Anasayfa a1 = new Anasayfa();
+            a1.Show();
         }
+
+        private void pictureBox12_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        
     }
 }

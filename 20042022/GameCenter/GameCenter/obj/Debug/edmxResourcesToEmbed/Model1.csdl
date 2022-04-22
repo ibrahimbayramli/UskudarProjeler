@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="Model1" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="Model1Container" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="GameSet" EntityType="Model1.Game" />
+  </EntityContainer>
+  <EntityType Name="Game">
+    <Key>
+      <PropertyRef Name="OyunId" />
+    </Key>
+    <Property Name="OyunId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="OyunAdi" Type="String" Nullable="false" />
+    <Property Name="OyunFiyati" Type="Double" Nullable="false" />
+    <Property Name="OyunKategori" Type="String" Nullable="false" />
+    <Property Name="OyunTuru" Type="String" Nullable="false" />
+    <Property Name="OyunCikisTarihi" Type="String" Nullable="false" />
+  </EntityType>
+</Schema>
