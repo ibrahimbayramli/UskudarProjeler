@@ -1,0 +1,6 @@
+C:\Users\STUDENT2\Desktop\UskudarProjeler\26042022\KTM\BussinesORM\bin\Debug\BussinesORM.dll
+C:\Users\STUDENT2\Desktop\UskudarProjeler\26042022\KTM\BussinesORM\bin\Debug\BussinesORM.pdb
+C:\Users\STUDENT2\Desktop\UskudarProjeler\26042022\KTM\BussinesORM\obj\Debug\BussinesORM.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\26042022\KTM\BussinesORM\obj\Debug\BussinesORM.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\26042022\KTM\BussinesORM\obj\Debug\BussinesORM.dll
+C:\Users\STUDENT2\Desktop\UskudarProjeler\26042022\KTM\BussinesORM\obj\Debug\BussinesORM.pdb

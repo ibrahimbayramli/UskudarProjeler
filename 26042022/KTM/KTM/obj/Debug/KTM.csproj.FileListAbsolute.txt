@@ -1,0 +1,13 @@
+C:\Users\STUDENT2\Desktop\UskudarProjeler\26042022\KTM\KTM\bin\Debug\KTM.exe.config
+C:\Users\STUDENT2\Desktop\UskudarProjeler\26042022\KTM\KTM\bin\Debug\KTM.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\26042022\KTM\KTM\bin\Debug\KTM.pdb
+C:\Users\STUDENT2\Desktop\UskudarProjeler\26042022\KTM\KTM\bin\Debug\BussinesORM.dll
+C:\Users\STUDENT2\Desktop\UskudarProjeler\26042022\KTM\KTM\bin\Debug\BussinesORM.pdb
+C:\Users\STUDENT2\Desktop\UskudarProjeler\26042022\KTM\KTM\obj\Debug\KTM.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\26042022\KTM\KTM\obj\Debug\KTM.Form1.resources
+C:\Users\STUDENT2\Desktop\UskudarProjeler\26042022\KTM\KTM\obj\Debug\KTM.Properties.Resources.resources
+C:\Users\STUDENT2\Desktop\UskudarProjeler\26042022\KTM\KTM\obj\Debug\KTM.csproj.GenerateResource.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\26042022\KTM\KTM\obj\Debug\KTM.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\26042022\KTM\KTM\obj\Debug\KTM.csproj.CopyComplete
+C:\Users\STUDENT2\Desktop\UskudarProjeler\26042022\KTM\KTM\obj\Debug\KTM.exe
+C:\Users\STUDENT2\Desktop\UskudarProjeler\26042022\KTM\KTM\obj\Debug\KTM.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KTM", "KTM\KTM.csproj", "{03397E6B-BF18-45AB-B996-44211626605B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BussinesORM", "BussinesORM\BussinesORM.csproj", "{7D391DA3-F362-4F8C-8804-F324389BCAB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03397E6B-BF18-45AB-B996-44211626605B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03397E6B-BF18-45AB-B996-44211626605B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03397E6B-BF18-45AB-B996-44211626605B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03397E6B-BF18-45AB-B996-44211626605B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D391DA3-F362-4F8C-8804-F324389BCAB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D391DA3-F362-4F8C-8804-F324389BCAB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D391DA3-F362-4F8C-8804-F324389BCAB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D391DA3-F362-4F8C-8804-F324389BCAB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C40B049-B760-4E3C-9678-C9DAD643907D}
+	EndGlobalSection
+EndGlobal
