@@ -11,3 +11,4 @@ C:\Users\STUDENT2\Desktop\UskudarProjeler\26042022\KTM\KTM\obj\Debug\KTM.csproj.
 C:\Users\STUDENT2\Desktop\UskudarProjeler\26042022\KTM\KTM\obj\Debug\KTM.csproj.CopyComplete
 C:\Users\STUDENT2\Desktop\UskudarProjeler\26042022\KTM\KTM\obj\Debug\KTM.exe
 C:\Users\STUDENT2\Desktop\UskudarProjeler\26042022\KTM\KTM\obj\Debug\KTM.pdb
+C:\Users\STUDENT2\Desktop\UskudarProjeler\26042022\KTM\KTM\obj\Debug\KTM.csproj.SuggestedBindingRedirects.cache
