@@ -46,6 +46,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FrmHizmet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmHizmet.Designer.cs">
+      <DependentUpon>FrmHizmet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmHizmetOzellik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmHizmetOzellik.Designer.cs">
+      <DependentUpon>FrmHizmetOzellik.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmMusteri.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -60,6 +72,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmHizmet.resx">
+      <DependentUpon>FrmHizmet.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
