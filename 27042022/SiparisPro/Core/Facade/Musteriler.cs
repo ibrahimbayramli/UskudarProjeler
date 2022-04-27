@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Core
+namespace Core.Facade
 {
-    public class Class1
+    class Musteriler
     {
     }
 }

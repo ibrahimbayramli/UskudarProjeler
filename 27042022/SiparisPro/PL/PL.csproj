@@ -75,6 +75,15 @@
     <EmbeddedResource Include="FrmHizmet.resx">
       <DependentUpon>FrmHizmet.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FrmHizmetOzellik.resx">
+      <DependentUpon>FrmHizmetOzellik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMusteri.resx">
+      <DependentUpon>FrmMusteri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSiparis.resx">
+      <DependentUpon>FrmSiparis.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

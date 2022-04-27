@@ -7,6 +7,7 @@ using System.Data;
 using System.Data.SqlClient;
 using System.Configuration;
 using BussinesORM.Entity;
+
 namespace BussinesORM.Facade
 {
    public static class Hastalar
