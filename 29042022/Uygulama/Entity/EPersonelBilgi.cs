@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entity
 {
-    class EPersonelBilgi
+    public class EPersonelBilgi
     {
         private int _ID;
         private string _PersonelAdi;

@@ -1,0 +1,11 @@
+C:\Users\STUDENT2\Desktop\UskudarProjeler\29042022\Uygulama\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\STUDENT2\Desktop\UskudarProjeler\29042022\Uygulama\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\STUDENT2\Desktop\UskudarProjeler\29042022\Uygulama\BusinessLayer\bin\Debug\Entity.dll
+C:\Users\STUDENT2\Desktop\UskudarProjeler\29042022\Uygulama\BusinessLayer\bin\Debug\Facade.dll
+C:\Users\STUDENT2\Desktop\UskudarProjeler\29042022\Uygulama\BusinessLayer\bin\Debug\Entity.pdb
+C:\Users\STUDENT2\Desktop\UskudarProjeler\29042022\Uygulama\BusinessLayer\bin\Debug\Facade.pdb
+C:\Users\STUDENT2\Desktop\UskudarProjeler\29042022\Uygulama\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\29042022\Uygulama\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\29042022\Uygulama\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\STUDENT2\Desktop\UskudarProjeler\29042022\Uygulama\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\STUDENT2\Desktop\UskudarProjeler\29042022\Uygulama\BusinessLayer\obj\Debug\BusinessLayer.pdb

@@ -1,0 +1,6 @@
+C:\Users\STUDENT2\Desktop\UskudarProjeler\29042022\Uygulama\Entity\bin\Debug\Entity.dll
+C:\Users\STUDENT2\Desktop\UskudarProjeler\29042022\Uygulama\Entity\bin\Debug\Entity.pdb
+C:\Users\STUDENT2\Desktop\UskudarProjeler\29042022\Uygulama\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\29042022\Uygulama\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\UskudarProjeler\29042022\Uygulama\Entity\obj\Debug\Entity.dll
+C:\Users\STUDENT2\Desktop\UskudarProjeler\29042022\Uygulama\Entity\obj\Debug\Entity.pdb
