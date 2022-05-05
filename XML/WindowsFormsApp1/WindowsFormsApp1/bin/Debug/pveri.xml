@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<okul>
+<ogretmen id="1">
+<isim>Kutay</isim>
+<soyisim>Işık</soyisim>
+<brans>Bilişim</brans>
+</ogretmen>
+
+<ogretmen id="2">
+<isim>Akın</isim>
+<soyisim>Oz</soyisim>
+<brans>İktisat</brans>
+</ogretmen>
+
+
+</okul>
