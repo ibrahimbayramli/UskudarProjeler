@@ -1,0 +1,19 @@
+G:\Emine\NOTLAR\13. Hafta-5.12.2016\9.12\9.12\bin\Debug\9.12.exe.config
+G:\Emine\NOTLAR\13. Hafta-5.12.2016\9.12\9.12\bin\Debug\9.12.exe
+G:\Emine\NOTLAR\13. Hafta-5.12.2016\9.12\9.12\bin\Debug\9.12.pdb
+G:\Emine\NOTLAR\13. Hafta-5.12.2016\9.12\9.12\obj\Debug\xmlokuma.csprojResolveAssemblyReference.cache
+G:\Emine\NOTLAR\13. Hafta-5.12.2016\9.12\9.12\obj\Debug\_9._12.Form1.resources
+G:\Emine\NOTLAR\13. Hafta-5.12.2016\9.12\9.12\obj\Debug\_9._12.Properties.Resources.resources
+G:\Emine\NOTLAR\13. Hafta-5.12.2016\9.12\9.12\obj\Debug\xmlokuma.csproj.GenerateResource.Cache
+G:\Emine\NOTLAR\13. Hafta-5.12.2016\9.12\9.12\obj\Debug\9.12.exe
+G:\Emine\NOTLAR\13. Hafta-5.12.2016\9.12\9.12\obj\Debug\9.12.pdb
+C:\Users\ISKUR\Desktop\XMLBAGLNTI\9.12\bin\Debug\9.12.exe.config
+C:\Users\ISKUR\Desktop\XMLBAGLNTI\9.12\bin\Debug\9.12.exe
+C:\Users\ISKUR\Desktop\XMLBAGLNTI\9.12\bin\Debug\9.12.pdb
+C:\Users\ISKUR\Desktop\XMLBAGLNTI\9.12\obj\Debug\xmlokuma.csproj.AssemblyReference.cache
+C:\Users\ISKUR\Desktop\XMLBAGLNTI\9.12\obj\Debug\_9._12.Form1.resources
+C:\Users\ISKUR\Desktop\XMLBAGLNTI\9.12\obj\Debug\_9._12.Properties.Resources.resources
+C:\Users\ISKUR\Desktop\XMLBAGLNTI\9.12\obj\Debug\xmlokuma.csproj.GenerateResource.cache
+C:\Users\ISKUR\Desktop\XMLBAGLNTI\9.12\obj\Debug\xmlokuma.csproj.CoreCompileInputs.cache
+C:\Users\ISKUR\Desktop\XMLBAGLNTI\9.12\obj\Debug\9.12.exe
+C:\Users\ISKUR\Desktop\XMLBAGLNTI\9.12\obj\Debug\9.12.pdb

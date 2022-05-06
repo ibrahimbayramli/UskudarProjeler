@@ -1,0 +1,31 @@
+<Tedarikciler>
+  <Tedarikci SehirAdi="London" Telefon="(171) 555-2222" Adres="49 Gilbert St." />
+  <Tedarikci SehirAdi="New Orleans" Telefon="(100) 555-4822" Adres="P.O. Box 78934" />
+  <Tedarikci SehirAdi="Ann Arbor" Telefon="(313) 555-5735" Adres="707 Oxford Rd." />
+  <Tedarikci SehirAdi="Tokyo" Telefon="(03) 3555-5011" Adres="9-8 Sekimai Musashino-shi" />
+  <Tedarikci SehirAdi="Oviedo" Telefon="(98) 598 76 54" Adres="Calle del Rosal 4" />
+  <Tedarikci SehirAdi="Osaka" Telefon="(06) 431-7877" Adres="92 Setsuko Chuo-ku" />
+  <Tedarikci SehirAdi="Melbourne" Telefon="(03) 444-2343" Adres="74 Rose St. Moonie Ponds" />
+  <Tedarikci SehirAdi="Manchester" Telefon="(161) 555-4448" Adres="29 King's Way" />
+  <Tedarikci SehirAdi="Göteborg" Telefon="031-987 65 43" Adres="Kaloadagatan 13" />
+  <Tedarikci SehirAdi="Sao Paulo" Telefon="(11) 555 4640" Adres="Av. das Americanas 12.890" />
+  <Tedarikci SehirAdi="Berlin" Telefon="(010) 9984510" Adres="Tiergartenstraße 5" />
+  <Tedarikci SehirAdi="Frankfurt" Telefon="(069) 992755" Adres="Bogenallee 51" />
+  <Tedarikci SehirAdi="Cuxhaven" Telefon="(04721) 8713" Adres="Frahmredder 112a" />
+  <Tedarikci SehirAdi="Ravenna" Telefon="(0544) 60323" Adres="Viale Dante, 75" />
+  <Tedarikci SehirAdi="Sandvika" Telefon="(0)2-953010" Adres="Hatlevegen 5" />
+  <Tedarikci SehirAdi="Bend" Telefon="(503) 555-9931" Adres="3400 - 8th Avenue Suite 210" />
+  <Tedarikci SehirAdi="Stockholm" Telefon="08-123 45 67" Adres="Brovallavägen 231" />
+  <Tedarikci SehirAdi="Paris" Telefon="(1) 03.83.00.68" Adres="203, Rue des Francs-Bourgeois" />
+  <Tedarikci SehirAdi="Boston" Telefon="(617) 555-3267" Adres="Order Processing Dept. 2100 Paul Revere Blvd." />
+  <Tedarikci SehirAdi="Singapore" Telefon="555-8787" Adres="471 Serangoon Loop, Suite #402" />
+  <Tedarikci SehirAdi="Lyngby" Telefon="43844108" Adres="Lyngbysild Fiskebakken 10" />
+  <Tedarikci SehirAdi="Zaandam" Telefon="(12345) 1212" Adres="Verkoop Rijnweg 22" />
+  <Tedarikci SehirAdi="Lappeenranta" Telefon="(953) 10956" Adres="Valtakatu 12" />
+  <Tedarikci SehirAdi="Sydney" Telefon="(02) 555-5914" Adres="170 Prince Edward Parade Hunter's Hill" />
+  <Tedarikci SehirAdi="Montréal" Telefon="(514) 555-9022" Adres="2960 Rue St. Laurent" />
+  <Tedarikci SehirAdi="Salerno" Telefon="(089) 6547665" Adres="Via dei Gelsomini, 153" />
+  <Tedarikci SehirAdi="Montceau" Telefon="85.57.00.07" Adres="22, rue H. Voiron" />
+  <Tedarikci SehirAdi="Annecy" Telefon="38.76.98.06" Adres="Bat. B 3, rue des Alpes" />
+  <Tedarikci SehirAdi="Ste-Hyacinthe" Telefon="(514) 555-2955" Adres="148 rue Chasseur" />
+</Tedarikciler>

@@ -1,0 +1,31 @@
+G:\Emine\NOTLAR\13. Hafta-5.12.2016\9.12\baglantıdatabase\bin\Debug\baglantıdatabase.exe.config
+G:\Emine\NOTLAR\13. Hafta-5.12.2016\9.12\baglantıdatabase\bin\Debug\baglantıdatabase.exe
+G:\Emine\NOTLAR\13. Hafta-5.12.2016\9.12\baglantıdatabase\bin\Debug\baglantıdatabase.pdb
+G:\Emine\NOTLAR\13. Hafta-5.12.2016\9.12\baglantıdatabase\obj\Debug\baglantıdatabase.Form1.resources
+G:\Emine\NOTLAR\13. Hafta-5.12.2016\9.12\baglantıdatabase\obj\Debug\baglantıdatabase.Properties.Resources.resources
+G:\Emine\NOTLAR\13. Hafta-5.12.2016\9.12\baglantıdatabase\obj\Debug\baglantıdatabase.csproj.GenerateResource.Cache
+G:\Emine\NOTLAR\13. Hafta-5.12.2016\9.12\baglantıdatabase\obj\Debug\baglantıdatabase.exe
+G:\Emine\NOTLAR\13. Hafta-5.12.2016\9.12\baglantıdatabase\obj\Debug\baglantıdatabase.pdb
+G:\Emine\NOTLAR\13. Hafta-5.12.2016\9.12\baglantıdatabase\obj\Debug\baglantıdatabase.csprojResolveAssemblyReference.cache
+E:\YAZILIM\NOTLAR\13. Hafta-5.12.2016\9.12\baglantıdatabase\bin\Debug\baglantıdatabase.exe.config
+E:\YAZILIM\NOTLAR\13. Hafta-5.12.2016\9.12\baglantıdatabase\obj\Debug\baglantıdatabase.exe
+E:\YAZILIM\NOTLAR\13. Hafta-5.12.2016\9.12\baglantıdatabase\obj\Debug\baglantıdatabase.pdb
+D:\siyahflash19022017\eminetümnotlar\SQL\Program\XMLBAGLNTI\baglantıdatabase\bin\Debug\baglantıdatabase.exe.config
+D:\siyahflash19022017\eminetümnotlar\SQL\Program\XMLBAGLNTI\baglantıdatabase\bin\Debug\baglantıdatabase.exe
+D:\siyahflash19022017\eminetümnotlar\SQL\Program\XMLBAGLNTI\baglantıdatabase\bin\Debug\baglantıdatabase.pdb
+D:\siyahflash19022017\eminetümnotlar\SQL\Program\XMLBAGLNTI\baglantıdatabase\obj\Debug\baglantıdatabase.csprojResolveAssemblyReference.cache
+D:\siyahflash19022017\eminetümnotlar\SQL\Program\XMLBAGLNTI\baglantıdatabase\obj\Debug\baglantıdatabase.Form1.resources
+D:\siyahflash19022017\eminetümnotlar\SQL\Program\XMLBAGLNTI\baglantıdatabase\obj\Debug\baglantıdatabase.Properties.Resources.resources
+D:\siyahflash19022017\eminetümnotlar\SQL\Program\XMLBAGLNTI\baglantıdatabase\obj\Debug\baglantıdatabase.csproj.GenerateResource.Cache
+D:\siyahflash19022017\eminetümnotlar\SQL\Program\XMLBAGLNTI\baglantıdatabase\obj\Debug\baglantıdatabase.exe
+D:\siyahflash19022017\eminetümnotlar\SQL\Program\XMLBAGLNTI\baglantıdatabase\obj\Debug\baglantıdatabase.pdb
+C:\Users\ISKUR\Desktop\XMLBAGLNTI\baglantıdatabase\bin\Debug\baglantıdatabase.exe.config
+C:\Users\ISKUR\Desktop\XMLBAGLNTI\baglantıdatabase\bin\Debug\baglantıdatabase.exe
+C:\Users\ISKUR\Desktop\XMLBAGLNTI\baglantıdatabase\bin\Debug\baglantıdatabase.pdb
+C:\Users\ISKUR\Desktop\XMLBAGLNTI\baglantıdatabase\obj\Debug\baglantıdatabase.csproj.AssemblyReference.cache
+C:\Users\ISKUR\Desktop\XMLBAGLNTI\baglantıdatabase\obj\Debug\baglantıdatabase.Form1.resources
+C:\Users\ISKUR\Desktop\XMLBAGLNTI\baglantıdatabase\obj\Debug\baglantıdatabase.Properties.Resources.resources
+C:\Users\ISKUR\Desktop\XMLBAGLNTI\baglantıdatabase\obj\Debug\baglantıdatabase.csproj.GenerateResource.cache
+C:\Users\ISKUR\Desktop\XMLBAGLNTI\baglantıdatabase\obj\Debug\baglantıdatabase.csproj.CoreCompileInputs.cache
+C:\Users\ISKUR\Desktop\XMLBAGLNTI\baglantıdatabase\obj\Debug\baglantıdatabase.exe
+C:\Users\ISKUR\Desktop\XMLBAGLNTI\baglantıdatabase\obj\Debug\baglantıdatabase.pdb

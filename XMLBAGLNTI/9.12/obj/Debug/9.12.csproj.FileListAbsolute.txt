@@ -1,0 +1,18 @@
+c:\users\emine.bahceci\documents\visual studio 2013\Projects\9.12\9.12\bin\Debug\9.12.exe.config
+c:\users\emine.bahceci\documents\visual studio 2013\Projects\9.12\9.12\bin\Debug\9.12.exe
+c:\users\emine.bahceci\documents\visual studio 2013\Projects\9.12\9.12\bin\Debug\9.12.pdb
+c:\users\emine.bahceci\documents\visual studio 2013\Projects\9.12\9.12\obj\Debug\9.12.csprojResolveAssemblyReference.cache
+c:\users\emine.bahceci\documents\visual studio 2013\Projects\9.12\9.12\obj\Debug\_9._12.Form1.resources
+c:\users\emine.bahceci\documents\visual studio 2013\Projects\9.12\9.12\obj\Debug\_9._12.Properties.Resources.resources
+c:\users\emine.bahceci\documents\visual studio 2013\Projects\9.12\9.12\obj\Debug\9.12.csproj.GenerateResource.Cache
+c:\users\emine.bahceci\documents\visual studio 2013\Projects\9.12\9.12\obj\Debug\9.12.exe
+c:\users\emine.bahceci\documents\visual studio 2013\Projects\9.12\9.12\obj\Debug\9.12.pdb
+G:\Emine\NOTLAR\13. Hafta-5.12.2016\9.12\9.12\bin\Debug\9.12.exe.config
+G:\Emine\NOTLAR\13. Hafta-5.12.2016\9.12\9.12\obj\Debug\9.12.exe
+G:\Emine\NOTLAR\13. Hafta-5.12.2016\9.12\9.12\obj\Debug\9.12.pdb
+G:\Emine\NOTLAR\13. Hafta-5.12.2016\9.12\9.12\bin\Debug\9.12.exe
+G:\Emine\NOTLAR\13. Hafta-5.12.2016\9.12\9.12\bin\Debug\9.12.pdb
+G:\Emine\NOTLAR\13. Hafta-5.12.2016\9.12\9.12\obj\Debug\9.12.csprojResolveAssemblyReference.cache
+G:\Emine\NOTLAR\13. Hafta-5.12.2016\9.12\9.12\obj\Debug\_9._12.Form1.resources
+G:\Emine\NOTLAR\13. Hafta-5.12.2016\9.12\9.12\obj\Debug\_9._12.Properties.Resources.resources
+G:\Emine\NOTLAR\13. Hafta-5.12.2016\9.12\9.12\obj\Debug\9.12.csproj.GenerateResource.Cache

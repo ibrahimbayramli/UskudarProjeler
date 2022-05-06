@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<personeller>
+  <personel>
+    <id>12</id>
+    <adi>emine</adi>
+    <soyadi></soyadi>
+    <telefonu>5678</telefonu>
+  </personel>
+  <personel>
+    <id>16</id>
+    <adi>akın</adi>
+    <soyadi>oz</soyadi>
+    <telefonu>678</telefonu>
+  </personel>
+  <personel>
+    <id>12</id>
+    <adi>mahmut</adi>
+    <soyadi>dogan</soyadi>
+    <telefonu>12345</telefonu>
+  </personel>
+  <personel>
+    <id></id>
+    <adi></adi>
+    <soyadi></soyadi>
+    <telefonu></telefonu>
+  </personel>
+  <personel>
+    <id>13</id>
+    <adi>lala</adi>
+    <soyadi>afdfsdfg</soyadi>
+    <telefonu>34576</telefonu>
+  </personel>
+  <personel>
+    <id>11</id>
+    <adi>emre</adi>
+    <soyadi>ozdem</soyadi>
+    <telefonu>346</telefonu>
+  </personel>
+  <personel>
+    <id>7</id>
+    <adi>ali</adi>
+    <soyadi>veli</soyadi>
+    <telefonu>55545</telefonu>
+  </personel>
+</personeller>
