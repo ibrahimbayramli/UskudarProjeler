@@ -1,0 +1,103 @@
+ 
+ body{
+	 background-color:	#9FA8DA;
+ }
+ 
+ 
+ 
+ 
+ .genel{
+	width:100%;
+	height:auto;
+    margin:0 auto;
+   
+	
+}
+.ust{width:80%;height:80px;background:#6200EA;padding-left:20px;margin-left:150px;}
+.logo  img{
+	width:auto;
+	height:auto;
+	margin-left:10px;
+	margin-top:1px;
+	border-radius:10px; 
+	float:left;	
+}
+.menu{
+	width:500px;
+	height:60px;
+	
+	float:left;
+	margin-top:10px;
+	margin-left:200px;
+	
+}
+.menu ul li{
+	float:left;
+	list-style-type:none;
+	padding:12px;
+	font-size:25px;
+	line-height:10px;
+}
+.menu ul li a{
+color:#fff;
+text-decoration:none;	
+	
+}
+
+.menu ul li a:hover{
+
+color:#D4C8C9;
+
+}
+.icon{
+width:200px;
+height:40px;
+float:right;
+margin-right:20px;
+margin-top:20px;	
+}
+.icon img{
+	width:20px;
+	height:40px;
+	float:left;
+
+	
+}
+
+
+.giris h1{
+	color:#6200EA;
+	font-size:35px;
+	
+}
+.hakkimizda{
+	width:80%;height:400px;background:#6200EA;padding-left:20px;margin-left:150px;margin-top:100px;
+   
+	
+}
+.hakkimizda p{
+ 
+	font-size:15px;
+	margin-left:50px;
+	margin-top:50px;
+    color:#fff;
+	padding-top:100px;
+	
+}
+.alt{
+	margin-top:100px;
+    width:82%;
+    height:100px;
+background:#6200EA;
+	margin-left:150px;
+		
+}
+.alt h3{
+	
+	
+	color:#fff;
+	padding-top:50px;
+	padding-left:50px;
+	
+
+}
