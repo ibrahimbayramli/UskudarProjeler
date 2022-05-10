@@ -1,0 +1,31 @@
+﻿
+@{
+    ViewBag.Title = "Calisma1";
+}
+
+<h2>Calisma1</h2>
+@{
+    string[] adlar = new string[3] { "Nihal", "Öz", "Akın" };
+
+    int index = 0;
+
+    <ul>
+        @foreach (string ad in adlar)
+        {
+            <li>
+                @if(index%2==0){
+                    <b>
+                        @ad
+                    </b>
+                }
+                else
+                {
+                    @ad
+                }
+                
+            </li>
+            index++;
+        }
+    </ul>
+}
+
