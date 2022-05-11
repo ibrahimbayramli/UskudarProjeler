@@ -1,0 +1,3 @@
+
+Bootstrap bir css frameworküdür. BS kullanarak kullanıcı deneyimlerini ve kullanıcı arayüzlerini sağlayabiliriz. BS twitter tarafından sağlanan ücretsiz bir css frameworküdür. 
+Hazır şablonlar içerir. Responsive tasarımlar içerir. Tasarım bozulmadan ekran değiştiğinde görüntünün bozulmamasını sağlayan mekanizmaya sahiptir. Hem tablet hem notebook hem daha büyük bilgisayarlarda görünüyü bozmadan gösterebilir. Grid sistemine sahiptir.
