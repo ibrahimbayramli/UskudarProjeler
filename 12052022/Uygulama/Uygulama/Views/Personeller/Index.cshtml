@@ -1,0 +1,51 @@
+﻿@model IEnumerable<Uygulama.Personel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.PAdSoyad)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PYas)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PTelefon)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PAdres)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.PAdSoyad)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PYas)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PTelefon)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PAdres)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.PersonelNo }) |
+            @Html.ActionLink("Details", "Details", new { id=item.PersonelNo }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.PersonelNo })
+        </td>
+    </tr>
+}
+
+</table>

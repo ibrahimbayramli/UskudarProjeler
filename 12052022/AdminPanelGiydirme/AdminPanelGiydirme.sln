@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdminPanelGiydirme", "AdminPanelGiydirme\AdminPanelGiydirme.csproj", "{97E3BD81-D0F6-4C4C-8813-0517909D53DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97E3BD81-D0F6-4C4C-8813-0517909D53DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97E3BD81-D0F6-4C4C-8813-0517909D53DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97E3BD81-D0F6-4C4C-8813-0517909D53DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97E3BD81-D0F6-4C4C-8813-0517909D53DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66269267-0541-40A9-8938-D53B571041B6}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="HoldingModelStoreContainer" CdmEntityContainer="HoldingEntities">
+    <EntitySetMapping Name="Personels">
+      <EntityTypeMapping TypeName="HoldingModel.Personel">
+        <MappingFragment StoreEntitySet="Personel">
+          <ScalarProperty Name="PersonelNo" ColumnName="PersonelNo" />
+          <ScalarProperty Name="PAdSoyad" ColumnName="PAdSoyad" />
+          <ScalarProperty Name="PYas" ColumnName="PYas" />
+          <ScalarProperty Name="PTelefon" ColumnName="PTelefon" />
+          <ScalarProperty Name="PAdres" ColumnName="PAdres" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
