@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CrudDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Calisanlar">
+    <Key>
+      <PropertyRef Name="CalisanID" />
+    </Key>
+    <Property Name="CalisanID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="AdSoyad" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Pozisyonu" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Yasi" Type="Int32" />
+    <Property Name="Maas" Type="Int32" />
+  </EntityType>
+  <EntityContainer Name="CrudDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Calisanlars" EntityType="Self.Calisanlar" />
+  </EntityContainer>
+</Schema>

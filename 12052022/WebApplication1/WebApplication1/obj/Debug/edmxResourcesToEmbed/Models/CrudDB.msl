@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CrudDBModelStoreContainer" CdmEntityContainer="CrudDBEntities">
+    <EntitySetMapping Name="Calisanlars">
+      <EntityTypeMapping TypeName="CrudDBModel.Calisanlar">
+        <MappingFragment StoreEntitySet="Calisanlar">
+          <ScalarProperty Name="CalisanID" ColumnName="CalisanID" />
+          <ScalarProperty Name="AdSoyad" ColumnName="AdSoyad" />
+          <ScalarProperty Name="Pozisyonu" ColumnName="Pozisyonu" />
+          <ScalarProperty Name="Yasi" ColumnName="Yasi" />
+          <ScalarProperty Name="Maas" ColumnName="Maas" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
