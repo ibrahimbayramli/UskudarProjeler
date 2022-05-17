@@ -53,5 +53,10 @@ namespace MVCcrud.Controllers
 
             return RedirectToAction("Index");
         }
+
+        public ActionResult Sil()
+        {
+            throw new System.NotImplementedException();
+        }
     }
 }

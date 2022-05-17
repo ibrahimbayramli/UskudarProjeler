@@ -7,7 +7,8 @@
 <h2>Index</h2>
 
 <p>
-    @Html.ActionLink("Create New", "Create")
+    @*@Html.ActionLink("Create New", "Create")*@
+    <a href="@Url.Action("Ekle","Calisan")" class="btn btn-danger"><i class="fa fa-plus-square"></i>Çalışan Ekle</a>
 </p>
 <table class="table">
     <tr>
@@ -26,27 +27,40 @@
         <th></th>
     </tr>
 
-@foreach (var item in Model) {
-<tr>
-    <td>
-        @Html.DisplayFor(modelItem => item.AdSoyad)
-    </td>
-    <td>
-        @Html.DisplayFor(modelItem => item.Pozisyonu)
-    </td>
-    <th>
-        @Html.DisplayNameFor(model => model.Yasi)
-    </th>
-    <th>
-        @Html.DisplayNameFor(model => model.Maas)
-    </th>
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.AdSoyad)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Pozisyonu)
+            </td>
+            <th>
+                @Html.DisplayNameFor(model => model.Yasi)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Maas)
+            </th>
 
-    <td>
-        @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
-        @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
-        @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
-    </td>
-</tr>
-}
+            <td>
+                <a href="@Url.Action("EKLE","Calisan",new {id=item.CalisanID})" class="btn btn-default"><i class="fa fa-pencil-square"></i>Edit</a>
+                <a onclick="Sil(@item.CalisanID)" class="btn btn-default"><i class="fa fa-pencil-trash"></i>Sil</a>
+            </td>
+        </tr>
+    }
 
 </table>
+
+<script>
+    $(function() {
+        var successMessage = '@TempData["SuccessMessage"]';
+        if (successMessage != '') {
+            alertify.succeeded(successMessage);
+        }
+    });
+
+    function Sil(id) {
+        alertify.confirm('silme işlemi', 'Kayıtı silmek istiyormusunuz ?', function() { window.location.href = '@Url.Action("Sil","Calisan")' + id; }, null);
+
+    }
+</script>
